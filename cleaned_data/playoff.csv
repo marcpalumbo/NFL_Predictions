@@ -1,0 +1,438 @@
+,schedule_date,schedule_season,schedule_week,team_home,score_home,team_away,score_away,points_scored,over_under_line,over_under_result,favorite,underdog,point_differential,spread,winning_team,losing_team,covering_team
+350,1968-01-14,1968-01-01,Superbowl,Green Bay Packers,33,Las Vegas Raiders,14,47.0,43,over,Green Bay Packers,Las Vegas Raiders,19,-13.5,Green Bay Packers,Las Vegas Raiders,Green Bay Packers
+538,1969-01-12,1969-01-01,Superbowl,Indianapolis Colts,7,New York Jets,16,23.0,40,under,Indianapolis Colts,New York Jets,9,-18.0,New York Jets,Indianapolis Colts,New York Jets
+727,1970-01-11,1970-01-01,Superbowl,Kansas City Chiefs,23,Minnesota Vikings,7,30.0,39,under,Minnesota Vikings,Kansas City Chiefs,16,-12.0,Kansas City Chiefs,Minnesota Vikings,Kansas City Chiefs
+916,1971-01-17,1971-01-01,Superbowl,Indianapolis Colts,16,Dallas Cowboys,13,29.0,36,under,Indianapolis Colts,Dallas Cowboys,3,-2.5,Indianapolis Colts,Dallas Cowboys,Indianapolis Colts
+1105,1972-01-16,1972-01-01,Superbowl,Dallas Cowboys,24,Miami Dolphins,3,27.0,34,under,Dallas Cowboys,Miami Dolphins,21,-6.0,Dallas Cowboys,Miami Dolphins,Dallas Cowboys
+1294,1973-01-14,1973-01-01,Superbowl,Miami Dolphins,14,Washington Commanders,7,21.0,33,under,Miami Dolphins,Washington Commanders,7,-1.0,Miami Dolphins,Washington Commanders,Miami Dolphins
+1483,1974-01-13,1974-01-01,Superbowl,Miami Dolphins,24,Minnesota Vikings,7,31.0,33,under,Miami Dolphins,Minnesota Vikings,17,-6.5,Miami Dolphins,Minnesota Vikings,Miami Dolphins
+1672,1975-01-12,1975-01-01,Superbowl,Minnesota Vikings,6,Pittsburgh Steelers,16,22.0,33,under,Pittsburgh Steelers,Minnesota Vikings,10,-3.0,Pittsburgh Steelers,Minnesota Vikings,Pittsburgh Steelers
+1861,1976-01-18,1976-01-01,Superbowl,Dallas Cowboys,17,Pittsburgh Steelers,21,38.0,36,over,Pittsburgh Steelers,Dallas Cowboys,4,-7.0,Pittsburgh Steelers,Dallas Cowboys,Dallas Cowboys
+2064,1977-01-09,1977-01-01,Superbowl,Minnesota Vikings,14,Las Vegas Raiders,32,46.0,38,over,Las Vegas Raiders,Minnesota Vikings,18,-4.0,Las Vegas Raiders,Minnesota Vikings,Las Vegas Raiders
+2267,1978-01-15,1978-01-01,Superbowl,Dallas Cowboys,27,Denver Broncos,10,37.0,39,under,Dallas Cowboys,Denver Broncos,17,-6.0,Dallas Cowboys,Denver Broncos,Dallas Cowboys
+2500,1979-01-21,1979-01-01,Superbowl,Dallas Cowboys,31,Pittsburgh Steelers,35,66.0,37,over,Pittsburgh Steelers,Dallas Cowboys,4,-3.5,Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers
+2733,1980-01-20,1980-01-01,Superbowl,Los Angeles Rams,19,Pittsburgh Steelers,31,50.0,36,over,Pittsburgh Steelers,Los Angeles Rams,12,-10.5,Pittsburgh Steelers,Los Angeles Rams,Pittsburgh Steelers
+2966,1981-01-25,1981-01-01,Superbowl,Las Vegas Raiders,27,Philadelphia Eagles,10,37.0,37,push,Philadelphia Eagles,Las Vegas Raiders,17,-3.0,Las Vegas Raiders,Philadelphia Eagles,Las Vegas Raiders
+3199,1982-01-24,1982-01-01,Superbowl,San Francisco 49ers,26,Cincinnati Bengals,21,47.0,48,under,San Francisco 49ers,Cincinnati Bengals,5,-1.0,San Francisco 49ers,Cincinnati Bengals,San Francisco 49ers
+3340,1983-01-30,1983-01-01,Superbowl,Miami Dolphins,17,Washington Commanders,27,44.0,36,over,Miami Dolphins,Washington Commanders,10,-3.0,Washington Commanders,Miami Dolphins,Washington Commanders
+3573,1984-01-22,1984-01-01,Superbowl,Washington Commanders,9,Las Vegas Raiders,38,47.0,48,under,Washington Commanders,Las Vegas Raiders,29,-3.0,Las Vegas Raiders,Washington Commanders,Las Vegas Raiders
+3806,1985-01-20,1985-01-01,Superbowl,San Francisco 49ers,38,Miami Dolphins,16,54.0,53,over,San Francisco 49ers,Miami Dolphins,22,-3.5,San Francisco 49ers,Miami Dolphins,San Francisco 49ers
+4039,1986-01-26,1986-01-01,Superbowl,Chicago Bears,46,New England Patriots,10,56.0,37,over,Chicago Bears,New England Patriots,36,-10.0,Chicago Bears,New England Patriots,Chicago Bears
+4264,1986-12-28,1986-01-01,Wildcard,New York Jets,35,Kansas City Chiefs,15,50.0,39,over,New York Jets,Kansas City Chiefs,20,-3.0,New York Jets,Kansas City Chiefs,New York Jets
+4265,1986-12-28,1986-01-01,Wildcard,Washington Commanders,19,Los Angeles Rams,7,26.0,40,under,Washington Commanders,Los Angeles Rams,12,-4.5,Washington Commanders,Los Angeles Rams,Washington Commanders
+4266,1987-01-03,1987-01-01,Division,Chicago Bears,13,Washington Commanders,27,40.0,34,over,Chicago Bears,Washington Commanders,14,-7.0,Washington Commanders,Chicago Bears,Washington Commanders
+4267,1987-01-03,1987-01-01,Division,Cleveland Browns,23,New York Jets,20,43.0,41,over,Cleveland Browns,New York Jets,3,-7.0,Cleveland Browns,New York Jets,New York Jets
+4268,1987-01-04,1987-01-01,Division,Denver Broncos,22,New England Patriots,17,39.0,43,under,Denver Broncos,New England Patriots,5,-4.0,Denver Broncos,New England Patriots,Denver Broncos
+4269,1987-01-04,1987-01-01,Division,New York Giants,49,San Francisco 49ers,3,52.0,39,over,New York Giants,San Francisco 49ers,46,-3.0,New York Giants,San Francisco 49ers,New York Giants
+4270,1987-01-11,1987-01-01,Conference,Cleveland Browns,20,Denver Broncos,23,43.0,38,over,Cleveland Browns,Denver Broncos,3,-3.0,Denver Broncos,Cleveland Browns,Denver Broncos
+4271,1987-01-11,1987-01-01,Conference,New York Giants,17,Washington Commanders,0,17.0,38,under,New York Giants,Washington Commanders,17,-7.0,New York Giants,Washington Commanders,New York Giants
+4272,1987-01-25,1987-01-01,Superbowl,New York Giants,39,Denver Broncos,20,59.0,40,over,New York Giants,Denver Broncos,19,-9.5,New York Giants,Denver Broncos,New York Giants
+4441,1988-01-03,1988-01-01,Wildcard,Tennessee Titans,23,Seattle Seahawks,20,43.0,45,under,Seattle Seahawks,Tennessee Titans,3,-2.5,Tennessee Titans,Seattle Seahawks,Tennessee Titans
+4442,1988-01-03,1988-01-01,Wildcard,New Orleans Saints,10,Minnesota Vikings,44,54.0,46,over,New Orleans Saints,Minnesota Vikings,34,-6.5,Minnesota Vikings,New Orleans Saints,Minnesota Vikings
+4443,1988-01-09,1988-01-01,Division,Cleveland Browns,38,Indianapolis Colts,21,59.0,37,over,Cleveland Browns,Indianapolis Colts,17,-8.0,Cleveland Browns,Indianapolis Colts,Cleveland Browns
+4444,1988-01-09,1988-01-01,Division,San Francisco 49ers,24,Minnesota Vikings,36,60.0,47,over,San Francisco 49ers,Minnesota Vikings,12,-11.0,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings
+4445,1988-01-10,1988-01-01,Division,Chicago Bears,17,Washington Commanders,21,38.0,38,push,Chicago Bears,Washington Commanders,4,-4.5,Washington Commanders,Chicago Bears,Washington Commanders
+4446,1988-01-10,1988-01-01,Division,Denver Broncos,34,Tennessee Titans,10,44.0,46,under,Denver Broncos,Tennessee Titans,24,-10.0,Denver Broncos,Tennessee Titans,Denver Broncos
+4447,1988-01-17,1988-01-01,Conference,Denver Broncos,38,Cleveland Browns,33,71.0,45,over,Denver Broncos,Cleveland Browns,5,-3.0,Denver Broncos,Cleveland Browns,Denver Broncos
+4448,1988-01-17,1988-01-01,Conference,Washington Commanders,17,Minnesota Vikings,10,27.0,45,under,Washington Commanders,Minnesota Vikings,7,-3.0,Washington Commanders,Minnesota Vikings,Washington Commanders
+4449,1988-01-31,1988-01-01,Superbowl,Denver Broncos,10,Washington Commanders,42,52.0,47,over,Denver Broncos,Washington Commanders,32,-3.0,Washington Commanders,Denver Broncos,Washington Commanders
+4674,1988-12-24,1988-01-01,Wildcard,Cleveland Browns,23,Tennessee Titans,24,47.0,38,over,Cleveland Browns,Tennessee Titans,1,-3.0,Tennessee Titans,Cleveland Browns,Tennessee Titans
+4675,1988-12-26,1988-01-01,Wildcard,Minnesota Vikings,28,Los Angeles Rams,17,45.0,42,over,Minnesota Vikings,Los Angeles Rams,11,-5.5,Minnesota Vikings,Los Angeles Rams,Minnesota Vikings
+4676,1988-12-31,1988-01-01,Division,Chicago Bears,20,Philadelphia Eagles,12,32.0,38,under,Chicago Bears,Philadelphia Eagles,8,-5.5,Chicago Bears,Philadelphia Eagles,Chicago Bears
+4677,1988-12-31,1988-01-01,Division,Cincinnati Bengals,21,Seattle Seahawks,13,34.0,46,under,Cincinnati Bengals,Seattle Seahawks,8,-6.5,Cincinnati Bengals,Seattle Seahawks,Cincinnati Bengals
+4678,1989-01-01,1989-01-01,Division,Buffalo Bills,17,Tennessee Titans,10,27.0,37,under,Buffalo Bills,Tennessee Titans,7,-3.5,Buffalo Bills,Tennessee Titans,Buffalo Bills
+4679,1989-01-01,1989-01-01,Division,San Francisco 49ers,34,Minnesota Vikings,9,43.0,44,under,San Francisco 49ers,Minnesota Vikings,25,-3.5,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers
+4680,1989-01-08,1989-01-01,Conference,Chicago Bears,3,San Francisco 49ers,28,31.0,35,under,San Francisco 49ers,Chicago Bears,25,-2.0,San Francisco 49ers,Chicago Bears,San Francisco 49ers
+4681,1989-01-08,1989-01-01,Conference,Cincinnati Bengals,21,Buffalo Bills,10,31.0,41,under,Cincinnati Bengals,Buffalo Bills,11,-4.0,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals
+4682,1989-01-22,1989-01-01,Superbowl,San Francisco 49ers,20,Cincinnati Bengals,16,36.0,48,under,San Francisco 49ers,Cincinnati Bengals,4,-7.0,San Francisco 49ers,Cincinnati Bengals,Cincinnati Bengals
+4907,1989-12-31,1989-01-01,Wildcard,Tennessee Titans,23,Pittsburgh Steelers,26,49.0,43,over,Tennessee Titans,Pittsburgh Steelers,3,-7.0,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers
+4908,1989-12-31,1989-01-01,Wildcard,Philadelphia Eagles,7,Los Angeles Rams,21,28.0,39,under,Philadelphia Eagles,Los Angeles Rams,14,-3.0,Los Angeles Rams,Philadelphia Eagles,Los Angeles Rams
+4909,1990-01-06,1990-01-01,Division,Cleveland Browns,34,Buffalo Bills,30,64.0,36,over,Cleveland Browns,Buffalo Bills,4,-3.5,Cleveland Browns,Buffalo Bills,Cleveland Browns
+4910,1990-01-06,1990-01-01,Division,San Francisco 49ers,41,Minnesota Vikings,13,54.0,44,over,San Francisco 49ers,Minnesota Vikings,28,-7.5,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers
+4911,1990-01-07,1990-01-01,Division,Denver Broncos,24,Pittsburgh Steelers,23,47.0,38,over,Denver Broncos,Pittsburgh Steelers,1,-10.0,Denver Broncos,Pittsburgh Steelers,Pittsburgh Steelers
+4912,1990-01-07,1990-01-01,Division,New York Giants,13,Los Angeles Rams,19,32.0,39,under,New York Giants,Los Angeles Rams,6,-3.0,Los Angeles Rams,New York Giants,Los Angeles Rams
+4913,1990-01-14,1990-01-01,Conference,Denver Broncos,37,Cleveland Browns,21,58.0,40,over,Denver Broncos,Cleveland Browns,16,-3.5,Denver Broncos,Cleveland Browns,Denver Broncos
+4914,1990-01-14,1990-01-01,Conference,San Francisco 49ers,30,Los Angeles Rams,3,33.0,46,under,San Francisco 49ers,Los Angeles Rams,27,-7.0,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers
+4915,1990-01-28,1990-01-01,Superbowl,San Francisco 49ers,55,Denver Broncos,10,65.0,48,over,San Francisco 49ers,Denver Broncos,45,-12.0,San Francisco 49ers,Denver Broncos,San Francisco 49ers
+5140,1991-01-05,1991-01-01,Wildcard,Miami Dolphins,17,Kansas City Chiefs,16,33.0,41,under,Miami Dolphins,Kansas City Chiefs,1,-2.5,Miami Dolphins,Kansas City Chiefs,Kansas City Chiefs
+5141,1991-01-05,1991-01-01,Wildcard,Philadelphia Eagles,6,Washington Commanders,20,26.0,40,under,Philadelphia Eagles,Washington Commanders,14,-4.5,Washington Commanders,Philadelphia Eagles,Washington Commanders
+5142,1991-01-06,1991-01-01,Wildcard,Chicago Bears,16,New Orleans Saints,6,22.0,32,under,Chicago Bears,New Orleans Saints,10,-6.5,Chicago Bears,New Orleans Saints,Chicago Bears
+5143,1991-01-06,1991-01-01,Wildcard,Cincinnati Bengals,41,Tennessee Titans,14,55.0,42,over,Cincinnati Bengals,Tennessee Titans,27,-3.5,Cincinnati Bengals,Tennessee Titans,Cincinnati Bengals
+5144,1991-01-12,1991-01-01,Division,Buffalo Bills,44,Miami Dolphins,34,78.0,34,over,Buffalo Bills,Miami Dolphins,10,-7.0,Buffalo Bills,Miami Dolphins,Buffalo Bills
+5145,1991-01-12,1991-01-01,Division,San Francisco 49ers,28,Washington Commanders,10,38.0,41,under,San Francisco 49ers,Washington Commanders,18,-8.0,San Francisco 49ers,Washington Commanders,San Francisco 49ers
+5146,1991-01-13,1991-01-01,Division,Las Vegas Raiders,20,Cincinnati Bengals,10,30.0,43,under,Las Vegas Raiders,Cincinnati Bengals,10,-6.0,Las Vegas Raiders,Cincinnati Bengals,Las Vegas Raiders
+5147,1991-01-13,1991-01-01,Division,New York Giants,31,Chicago Bears,3,34.0,33,over,New York Giants,Chicago Bears,28,-7.0,New York Giants,Chicago Bears,New York Giants
+5148,1991-01-20,1991-01-01,Conference,Buffalo Bills,51,Las Vegas Raiders,3,54.0,37,over,Buffalo Bills,Las Vegas Raiders,48,-7.0,Buffalo Bills,Las Vegas Raiders,Buffalo Bills
+5149,1991-01-20,1991-01-01,Conference,San Francisco 49ers,13,New York Giants,15,28.0,37,under,San Francisco 49ers,New York Giants,2,-8.0,New York Giants,San Francisco 49ers,New York Giants
+5150,1991-01-27,1991-01-01,Superbowl,Buffalo Bills,19,New York Giants,20,39.0,40,under,Buffalo Bills,New York Giants,1,-7.0,New York Giants,Buffalo Bills,New York Giants
+5375,1991-12-28,1991-01-01,Wildcard,Kansas City Chiefs,10,Las Vegas Raiders,6,16.0,36,under,Kansas City Chiefs,Las Vegas Raiders,4,-5.0,Kansas City Chiefs,Las Vegas Raiders,Las Vegas Raiders
+5376,1991-12-28,1991-01-01,Wildcard,New Orleans Saints,20,Atlanta Falcons,27,47.0,39,over,New Orleans Saints,Atlanta Falcons,7,-6.0,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+5377,1991-12-29,1991-01-01,Wildcard,Chicago Bears,13,Dallas Cowboys,17,30.0,37,under,Chicago Bears,Dallas Cowboys,4,-3.0,Dallas Cowboys,Chicago Bears,Dallas Cowboys
+5378,1991-12-29,1991-01-01,Wildcard,Tennessee Titans,17,New York Jets,10,27.0,44,under,Tennessee Titans,New York Jets,7,-9.0,Tennessee Titans,New York Jets,New York Jets
+5379,1992-01-04,1992-01-01,Division,Denver Broncos,26,Tennessee Titans,24,50.0,37,over,Denver Broncos,Tennessee Titans,2,-3.5,Denver Broncos,Tennessee Titans,Tennessee Titans
+5380,1992-01-04,1992-01-01,Division,Washington Commanders,24,Atlanta Falcons,7,31.0,43,under,Washington Commanders,Atlanta Falcons,17,-11.5,Washington Commanders,Atlanta Falcons,Washington Commanders
+5381,1992-01-05,1992-01-01,Division,Buffalo Bills,37,Kansas City Chiefs,14,51.0,41,over,Buffalo Bills,Kansas City Chiefs,23,-10.5,Buffalo Bills,Kansas City Chiefs,Buffalo Bills
+5382,1992-01-05,1992-01-01,Division,Detroit Lions,38,Dallas Cowboys,6,44.0,43,over,PICK,Detroit Lions,32,0.0,Detroit Lions,Dallas Cowboys,Detroit Lions
+5383,1992-01-12,1992-01-01,Conference,Buffalo Bills,10,Denver Broncos,7,17.0,46,under,Buffalo Bills,Denver Broncos,3,-12.0,Buffalo Bills,Denver Broncos,Denver Broncos
+5384,1992-01-12,1992-01-01,Conference,Washington Commanders,41,Detroit Lions,10,51.0,43,over,Washington Commanders,Detroit Lions,31,-14.0,Washington Commanders,Detroit Lions,Washington Commanders
+5385,1992-01-26,1992-01-01,Superbowl,Washington Commanders,37,Buffalo Bills,24,61.0,49,over,Washington Commanders,Buffalo Bills,13,-7.0,Washington Commanders,Buffalo Bills,Washington Commanders
+5610,1993-01-02,1993-01-01,Wildcard,Minnesota Vikings,7,Washington Commanders,24,31.0,37,under,Minnesota Vikings,Washington Commanders,17,-3.5,Washington Commanders,Minnesota Vikings,Washington Commanders
+5611,1993-01-02,1993-01-01,Wildcard,Los Angeles Chargers,17,Kansas City Chiefs,0,17.0,37,under,Los Angeles Chargers,Kansas City Chiefs,17,-3.0,Los Angeles Chargers,Kansas City Chiefs,Los Angeles Chargers
+5612,1993-01-03,1993-01-01,Wildcard,Buffalo Bills,41,Tennessee Titans,38,79.0,37,over,Buffalo Bills,Tennessee Titans,3,-2.0,Buffalo Bills,Tennessee Titans,Buffalo Bills
+5613,1993-01-03,1993-01-01,Wildcard,New Orleans Saints,20,Philadelphia Eagles,36,56.0,35,over,New Orleans Saints,Philadelphia Eagles,16,-3.5,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles
+5614,1993-01-09,1993-01-01,Division,Pittsburgh Steelers,3,Buffalo Bills,24,27.0,36,under,Pittsburgh Steelers,Buffalo Bills,21,-2.0,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills
+5615,1993-01-09,1993-01-01,Division,San Francisco 49ers,20,Washington Commanders,13,33.0,39,under,San Francisco 49ers,Washington Commanders,7,-9.5,San Francisco 49ers,Washington Commanders,Washington Commanders
+5616,1993-01-10,1993-01-01,Division,Dallas Cowboys,34,Philadelphia Eagles,10,44.0,38,over,Dallas Cowboys,Philadelphia Eagles,24,-6.5,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+5617,1993-01-10,1993-01-01,Division,Miami Dolphins,31,Los Angeles Chargers,0,31.0,37,under,Miami Dolphins,Los Angeles Chargers,31,-2.0,Miami Dolphins,Los Angeles Chargers,Miami Dolphins
+5618,1993-01-17,1993-01-01,Conference,Miami Dolphins,10,Buffalo Bills,29,39.0,41,under,Buffalo Bills,Miami Dolphins,19,-2.5,Buffalo Bills,Miami Dolphins,Buffalo Bills
+5619,1993-01-17,1993-01-01,Conference,San Francisco 49ers,20,Dallas Cowboys,30,50.0,37,over,San Francisco 49ers,Dallas Cowboys,10,-4.0,Dallas Cowboys,San Francisco 49ers,Dallas Cowboys
+5620,1993-01-31,1993-01-01,Superbowl,Dallas Cowboys,52,Buffalo Bills,17,69.0,44,over,Dallas Cowboys,Buffalo Bills,35,-6.5,Dallas Cowboys,Buffalo Bills,Dallas Cowboys
+5845,1994-01-08,1994-01-01,Wildcard,Detroit Lions,24,Green Bay Packers,28,52.0,38,over,Detroit Lions,Green Bay Packers,4,-1.5,Green Bay Packers,Detroit Lions,Green Bay Packers
+5846,1994-01-08,1994-01-01,Wildcard,Kansas City Chiefs,27,Pittsburgh Steelers,24,51.0,36,over,Kansas City Chiefs,Pittsburgh Steelers,3,-7.5,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers
+5847,1994-01-09,1994-01-01,Wildcard,Las Vegas Raiders,42,Denver Broncos,24,66.0,41,over,Las Vegas Raiders,Denver Broncos,18,-2.0,Las Vegas Raiders,Denver Broncos,Las Vegas Raiders
+5848,1994-01-09,1994-01-01,Wildcard,New York Giants,17,Minnesota Vikings,10,27.0,33,under,New York Giants,Minnesota Vikings,7,-6.5,New York Giants,Minnesota Vikings,New York Giants
+5849,1994-01-15,1994-01-01,Division,Buffalo Bills,29,Las Vegas Raiders,23,52.0,33,over,Buffalo Bills,Las Vegas Raiders,6,-7.0,Buffalo Bills,Las Vegas Raiders,Las Vegas Raiders
+5850,1994-01-15,1994-01-01,Division,San Francisco 49ers,44,New York Giants,3,47.0,41,over,San Francisco 49ers,New York Giants,41,-8.0,San Francisco 49ers,New York Giants,San Francisco 49ers
+5851,1994-01-16,1994-01-01,Division,Dallas Cowboys,27,Green Bay Packers,17,44.0,42,over,Dallas Cowboys,Green Bay Packers,10,-13.5,Dallas Cowboys,Green Bay Packers,Green Bay Packers
+5852,1994-01-16,1994-01-01,Division,Tennessee Titans,20,Kansas City Chiefs,28,48.0,41,over,Tennessee Titans,Kansas City Chiefs,8,-7.0,Kansas City Chiefs,Tennessee Titans,Kansas City Chiefs
+5853,1994-01-23,1994-01-01,Conference,Buffalo Bills,30,Kansas City Chiefs,13,43.0,39,over,Buffalo Bills,Kansas City Chiefs,17,-3.0,Buffalo Bills,Kansas City Chiefs,Buffalo Bills
+5854,1994-01-23,1994-01-01,Conference,Dallas Cowboys,38,San Francisco 49ers,21,59.0,48,over,Dallas Cowboys,San Francisco 49ers,17,-3.0,Dallas Cowboys,San Francisco 49ers,Dallas Cowboys
+5855,1994-01-30,1994-01-01,Superbowl,Dallas Cowboys,30,Buffalo Bills,13,43.0,50,under,Dallas Cowboys,Buffalo Bills,17,-10.5,Dallas Cowboys,Buffalo Bills,Dallas Cowboys
+6080,1994-12-31,1994-01-01,Wildcard,Green Bay Packers,16,Detroit Lions,12,28.0,40,under,Green Bay Packers,Detroit Lions,4,-4.5,Green Bay Packers,Detroit Lions,Detroit Lions
+6081,1994-12-31,1994-01-01,Wildcard,Miami Dolphins,27,Kansas City Chiefs,17,44.0,45,under,Miami Dolphins,Kansas City Chiefs,10,-3.0,Miami Dolphins,Kansas City Chiefs,Miami Dolphins
+6082,1995-01-01,1995-01-01,Wildcard,Cleveland Browns,20,New England Patriots,13,33.0,35,under,Cleveland Browns,New England Patriots,7,-3.0,Cleveland Browns,New England Patriots,Cleveland Browns
+6083,1995-01-01,1995-01-01,Wildcard,Minnesota Vikings,18,Chicago Bears,35,53.0,38,over,Minnesota Vikings,Chicago Bears,17,-6.0,Chicago Bears,Minnesota Vikings,Chicago Bears
+6084,1995-01-07,1995-01-01,Division,Pittsburgh Steelers,29,Cleveland Browns,9,38.0,32,over,Pittsburgh Steelers,Cleveland Browns,20,-3.5,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
+6085,1995-01-07,1995-01-01,Division,San Francisco 49ers,44,Chicago Bears,15,59.0,46,over,San Francisco 49ers,Chicago Bears,29,-15.5,San Francisco 49ers,Chicago Bears,San Francisco 49ers
+6086,1995-01-08,1995-01-01,Division,Dallas Cowboys,35,Green Bay Packers,9,44.0,43,over,Dallas Cowboys,Green Bay Packers,26,-10.0,Dallas Cowboys,Green Bay Packers,Dallas Cowboys
+6087,1995-01-08,1995-01-01,Division,Los Angeles Chargers,22,Miami Dolphins,21,43.0,46,under,Los Angeles Chargers,Miami Dolphins,1,-3.0,Los Angeles Chargers,Miami Dolphins,Miami Dolphins
+6088,1995-01-15,1995-01-01,Conference,Pittsburgh Steelers,13,Los Angeles Chargers,17,30.0,35,under,Pittsburgh Steelers,Los Angeles Chargers,4,-6.0,Los Angeles Chargers,Pittsburgh Steelers,Los Angeles Chargers
+6089,1995-01-15,1995-01-01,Conference,San Francisco 49ers,38,Dallas Cowboys,28,66.0,48,over,San Francisco 49ers,Dallas Cowboys,10,-7.0,San Francisco 49ers,Dallas Cowboys,San Francisco 49ers
+6090,1995-01-29,1995-01-01,Superbowl,San Francisco 49ers,49,Los Angeles Chargers,26,75.0,53,over,San Francisco 49ers,Los Angeles Chargers,23,-18.5,San Francisco 49ers,Los Angeles Chargers,San Francisco 49ers
+6331,1995-12-30,1995-01-01,Wildcard,Buffalo Bills,37,Miami Dolphins,22,59.0,42,over,Buffalo Bills,Miami Dolphins,15,-3.5,Buffalo Bills,Miami Dolphins,Buffalo Bills
+6332,1995-12-30,1995-01-01,Wildcard,Philadelphia Eagles,58,Detroit Lions,37,95.0,42,over,Detroit Lions,Philadelphia Eagles,21,-3.0,Philadelphia Eagles,Detroit Lions,Philadelphia Eagles
+6333,1995-12-31,1995-01-01,Wildcard,Green Bay Packers,37,Atlanta Falcons,20,57.0,44,over,Green Bay Packers,Atlanta Falcons,17,-9.5,Green Bay Packers,Atlanta Falcons,Green Bay Packers
+6334,1995-12-31,1995-01-01,Wildcard,Los Angeles Chargers,20,Indianapolis Colts,35,55.0,40,over,Los Angeles Chargers,Indianapolis Colts,15,-5.5,Indianapolis Colts,Los Angeles Chargers,Indianapolis Colts
+6335,1996-01-06,1996-01-01,Division,Pittsburgh Steelers,40,Buffalo Bills,21,61.0,42,over,Pittsburgh Steelers,Buffalo Bills,19,-6.0,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers
+6336,1996-01-06,1996-01-01,Division,San Francisco 49ers,17,Green Bay Packers,27,44.0,52,under,San Francisco 49ers,Green Bay Packers,10,-9.5,Green Bay Packers,San Francisco 49ers,Green Bay Packers
+6337,1996-01-07,1996-01-01,Division,Dallas Cowboys,30,Philadelphia Eagles,11,41.0,45,under,Dallas Cowboys,Philadelphia Eagles,19,-13.5,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+6338,1996-01-07,1996-01-01,Division,Kansas City Chiefs,7,Indianapolis Colts,10,17.0,41,under,Kansas City Chiefs,Indianapolis Colts,3,-8.0,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts
+6339,1996-01-14,1996-01-01,Conference,Dallas Cowboys,38,Green Bay Packers,27,65.0,50,over,Dallas Cowboys,Green Bay Packers,11,-9.0,Dallas Cowboys,Green Bay Packers,Dallas Cowboys
+6340,1996-01-14,1996-01-01,Conference,Pittsburgh Steelers,20,Indianapolis Colts,16,36.0,43,under,Pittsburgh Steelers,Indianapolis Colts,4,-11.0,Pittsburgh Steelers,Indianapolis Colts,Indianapolis Colts
+6341,1996-01-28,1996-01-01,Superbowl,Dallas Cowboys,27,Pittsburgh Steelers,17,44.0,51,under,Dallas Cowboys,Pittsburgh Steelers,10,-13.5,Dallas Cowboys,Pittsburgh Steelers,Pittsburgh Steelers
+6582,1996-12-28,1996-01-01,Wildcard,Buffalo Bills,27,Jacksonville Jaguars,30,57.0,38,over,Buffalo Bills,Jacksonville Jaguars,3,-8.5,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars
+6583,1996-12-28,1996-01-01,Wildcard,Dallas Cowboys,40,Minnesota Vikings,15,55.0,40,over,Dallas Cowboys,Minnesota Vikings,25,-10.0,Dallas Cowboys,Minnesota Vikings,Dallas Cowboys
+6584,1996-12-29,1996-01-01,Wildcard,Pittsburgh Steelers,42,Indianapolis Colts,14,56.0,37,over,Pittsburgh Steelers,Indianapolis Colts,28,-8.0,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers
+6585,1996-12-29,1996-01-01,Wildcard,San Francisco 49ers,14,Philadelphia Eagles,0,14.0,42,under,San Francisco 49ers,Philadelphia Eagles,14,-10.5,San Francisco 49ers,Philadelphia Eagles,San Francisco 49ers
+6586,1997-01-04,1997-01-01,Division,Denver Broncos,27,Jacksonville Jaguars,30,57.0,43,over,Denver Broncos,Jacksonville Jaguars,3,-12.5,Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars
+6587,1997-01-04,1997-01-01,Division,Green Bay Packers,35,San Francisco 49ers,14,49.0,41,over,Green Bay Packers,San Francisco 49ers,21,-5.0,Green Bay Packers,San Francisco 49ers,Green Bay Packers
+6588,1997-01-05,1997-01-01,Division,Carolina Panthers,26,Dallas Cowboys,17,43.0,37,over,Dallas Cowboys,Carolina Panthers,9,-3.5,Carolina Panthers,Dallas Cowboys,Carolina Panthers
+6589,1997-01-05,1997-01-01,Division,New England Patriots,28,Pittsburgh Steelers,3,31.0,41,under,New England Patriots,Pittsburgh Steelers,25,-3.0,New England Patriots,Pittsburgh Steelers,New England Patriots
+6590,1997-01-12,1997-01-01,Conference,Green Bay Packers,30,Carolina Panthers,13,43.0,39,over,Green Bay Packers,Carolina Panthers,17,-12.0,Green Bay Packers,Carolina Panthers,Green Bay Packers
+6591,1997-01-12,1997-01-01,Conference,New England Patriots,20,Jacksonville Jaguars,6,26.0,44,under,New England Patriots,Jacksonville Jaguars,14,-7.5,New England Patriots,Jacksonville Jaguars,New England Patriots
+6592,1997-01-26,1997-01-01,Superbowl,Green Bay Packers,35,New England Patriots,21,56.0,49,over,Green Bay Packers,New England Patriots,14,-14.0,Green Bay Packers,New England Patriots,PUSH
+6833,1997-12-27,1997-01-01,Wildcard,Denver Broncos,42,Jacksonville Jaguars,17,59.0,45,over,Denver Broncos,Jacksonville Jaguars,25,-6.5,Denver Broncos,Jacksonville Jaguars,Denver Broncos
+6834,1997-12-27,1997-01-01,Wildcard,New York Giants,22,Minnesota Vikings,23,45.0,38,over,New York Giants,Minnesota Vikings,1,-4.5,Minnesota Vikings,New York Giants,Minnesota Vikings
+6835,1997-12-28,1997-01-01,Wildcard,New England Patriots,17,Miami Dolphins,3,20.0,41,under,New England Patriots,Miami Dolphins,14,-5.0,New England Patriots,Miami Dolphins,New England Patriots
+6836,1997-12-28,1997-01-01,Wildcard,Tampa Bay Buccaneers,20,Detroit Lions,10,30.0,38,under,Tampa Bay Buccaneers,Detroit Lions,10,-3.0,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers
+6837,1998-01-03,1998-01-01,Division,Pittsburgh Steelers,7,New England Patriots,6,13.0,42,under,Pittsburgh Steelers,New England Patriots,1,-6.0,Pittsburgh Steelers,New England Patriots,New England Patriots
+6838,1998-01-03,1998-01-01,Division,San Francisco 49ers,38,Minnesota Vikings,22,60.0,42,over,San Francisco 49ers,Minnesota Vikings,16,-11.5,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers
+6839,1998-01-04,1998-01-01,Division,Green Bay Packers,21,Tampa Bay Buccaneers,7,28.0,38,under,Green Bay Packers,Tampa Bay Buccaneers,14,-13.0,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
+6840,1998-01-04,1998-01-01,Division,Kansas City Chiefs,10,Denver Broncos,14,24.0,41,under,PICK,Denver Broncos,4,0.0,Denver Broncos,Kansas City Chiefs,Denver Broncos
+6841,1998-01-11,1998-01-01,Conference,Pittsburgh Steelers,21,Denver Broncos,24,45.0,41,over,Pittsburgh Steelers,Denver Broncos,3,-1.0,Denver Broncos,Pittsburgh Steelers,Denver Broncos
+6842,1998-01-11,1998-01-01,Conference,San Francisco 49ers,10,Green Bay Packers,23,33.0,43,under,Green Bay Packers,San Francisco 49ers,13,-1.5,Green Bay Packers,San Francisco 49ers,Green Bay Packers
+6843,1998-01-25,1998-01-01,Superbowl,Green Bay Packers,24,Denver Broncos,31,55.0,49,over,Green Bay Packers,Denver Broncos,7,-11.0,Denver Broncos,Green Bay Packers,Denver Broncos
+7084,1999-01-02,1999-01-01,Wildcard,Dallas Cowboys,7,Arizona Cardinals,20,27.0,42,under,Dallas Cowboys,Arizona Cardinals,13,-7.0,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals
+7085,1999-01-02,1999-01-01,Wildcard,Miami Dolphins,24,Buffalo Bills,17,41.0,43,under,Miami Dolphins,Buffalo Bills,7,-2.5,Miami Dolphins,Buffalo Bills,Miami Dolphins
+7086,1999-01-03,1999-01-01,Wildcard,Jacksonville Jaguars,25,New England Patriots,10,35.0,41,under,Jacksonville Jaguars,New England Patriots,15,-8.5,Jacksonville Jaguars,New England Patriots,Jacksonville Jaguars
+7087,1999-01-03,1999-01-01,Wildcard,San Francisco 49ers,30,Green Bay Packers,27,57.0,49,over,San Francisco 49ers,Green Bay Packers,3,-3.0,San Francisco 49ers,Green Bay Packers,PUSH
+7088,1999-01-09,1999-01-01,Division,Atlanta Falcons,20,San Francisco 49ers,18,38.0,53,under,Atlanta Falcons,San Francisco 49ers,2,-3.5,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers
+7089,1999-01-09,1999-01-01,Division,Denver Broncos,38,Miami Dolphins,3,41.0,48,under,Denver Broncos,Miami Dolphins,35,-13.5,Denver Broncos,Miami Dolphins,Denver Broncos
+7090,1999-01-10,1999-01-01,Division,Minnesota Vikings,41,Arizona Cardinals,21,62.0,52,over,Minnesota Vikings,Arizona Cardinals,20,-16.5,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings
+7091,1999-01-10,1999-01-01,Division,New York Jets,34,Jacksonville Jaguars,24,58.0,43,over,New York Jets,Jacksonville Jaguars,10,-9.0,New York Jets,Jacksonville Jaguars,New York Jets
+7092,1999-01-17,1999-01-01,Conference,Denver Broncos,23,New York Jets,10,33.0,50,under,Denver Broncos,New York Jets,13,-9.0,Denver Broncos,New York Jets,Denver Broncos
+7093,1999-01-17,1999-01-01,Conference,Minnesota Vikings,27,Atlanta Falcons,30,57.0,55,over,Minnesota Vikings,Atlanta Falcons,3,-11.0,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons
+7094,1999-01-31,1999-01-01,Superbowl,Denver Broncos,34,Atlanta Falcons,19,53.0,52,over,Denver Broncos,Atlanta Falcons,15,-7.5,Denver Broncos,Atlanta Falcons,Denver Broncos
+7343,2000-01-08,2000-01-01,Wildcard,Tennessee Titans,22,Buffalo Bills,16,38.0,39,under,Tennessee Titans,Buffalo Bills,6,-5.0,Tennessee Titans,Buffalo Bills,Tennessee Titans
+7344,2000-01-08,2000-01-01,Wildcard,Washington Commanders,27,Detroit Lions,13,40.0,46,under,Washington Commanders,Detroit Lions,14,-6.0,Washington Commanders,Detroit Lions,Washington Commanders
+7345,2000-01-09,2000-01-01,Wildcard,Minnesota Vikings,27,Dallas Cowboys,10,37.0,46,under,Minnesota Vikings,Dallas Cowboys,17,-7.0,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings
+7346,2000-01-09,2000-01-01,Wildcard,Seattle Seahawks,17,Miami Dolphins,20,37.0,39,under,Seattle Seahawks,Miami Dolphins,3,-3.5,Miami Dolphins,Seattle Seahawks,Miami Dolphins
+7347,2000-01-15,2000-01-01,Division,Jacksonville Jaguars,62,Miami Dolphins,7,69.0,37,over,Jacksonville Jaguars,Miami Dolphins,55,-8.0,Jacksonville Jaguars,Miami Dolphins,Jacksonville Jaguars
+7348,2000-01-15,2000-01-01,Division,Tampa Bay Buccaneers,14,Washington Commanders,13,27.0,38,under,Tampa Bay Buccaneers,Washington Commanders,1,-4.5,Tampa Bay Buccaneers,Washington Commanders,Washington Commanders
+7349,2000-01-16,2000-01-01,Division,Indianapolis Colts,16,Tennessee Titans,19,35.0,46,under,Indianapolis Colts,Tennessee Titans,3,-5.5,Tennessee Titans,Indianapolis Colts,Tennessee Titans
+7350,2000-01-16,2000-01-01,Division,Los Angeles Rams,49,Minnesota Vikings,37,86.0,52,over,Los Angeles Rams,Minnesota Vikings,12,-7.0,Los Angeles Rams,Minnesota Vikings,Los Angeles Rams
+7351,2000-01-23,2000-01-01,Conference,Jacksonville Jaguars,14,Tennessee Titans,33,47.0,39,over,Jacksonville Jaguars,Tennessee Titans,19,-7.0,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans
+7352,2000-01-23,2000-01-01,Conference,Los Angeles Rams,11,Tampa Bay Buccaneers,6,17.0,46,under,Los Angeles Rams,Tampa Bay Buccaneers,5,-14.0,Los Angeles Rams,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+7353,2000-01-30,2000-01-01,Superbowl,Los Angeles Rams,23,Tennessee Titans,16,39.0,45,under,Los Angeles Rams,Tennessee Titans,7,-7.0,Los Angeles Rams,Tennessee Titans,PUSH
+7602,2000-12-30,2000-01-01,Wildcard,Miami Dolphins,23,Indianapolis Colts,17,40.0,42,under,Indianapolis Colts,Miami Dolphins,6,-1.5,Miami Dolphins,Indianapolis Colts,Miami Dolphins
+7603,2000-12-30,2000-01-01,Wildcard,New Orleans Saints,31,Los Angeles Rams,28,59.0,55,over,Los Angeles Rams,New Orleans Saints,3,-5.5,New Orleans Saints,Los Angeles Rams,New Orleans Saints
+7604,2000-12-31,2000-01-01,Wildcard,Baltimore Ravens,21,Denver Broncos,3,24.0,41,under,Baltimore Ravens,Denver Broncos,18,-3.5,Baltimore Ravens,Denver Broncos,Baltimore Ravens
+7605,2000-12-31,2000-01-01,Wildcard,Philadelphia Eagles,21,Tampa Bay Buccaneers,3,24.0,34,under,Tampa Bay Buccaneers,Philadelphia Eagles,18,-3.0,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles
+7606,2001-01-06,2001-01-01,Division,Minnesota Vikings,34,New Orleans Saints,16,50.0,49,over,Minnesota Vikings,New Orleans Saints,18,-8.0,Minnesota Vikings,New Orleans Saints,Minnesota Vikings
+7607,2001-01-06,2001-01-01,Division,Las Vegas Raiders,27,Miami Dolphins,0,27.0,42,under,Las Vegas Raiders,Miami Dolphins,27,-9.0,Las Vegas Raiders,Miami Dolphins,Las Vegas Raiders
+7608,2001-01-07,2001-01-01,Division,New York Giants,20,Philadelphia Eagles,10,30.0,33,under,New York Giants,Philadelphia Eagles,10,-4.5,New York Giants,Philadelphia Eagles,New York Giants
+7609,2001-01-07,2001-01-01,Division,Tennessee Titans,10,Baltimore Ravens,24,34.0,34,push,Tennessee Titans,Baltimore Ravens,14,-6.0,Baltimore Ravens,Tennessee Titans,Baltimore Ravens
+7610,2001-01-14,2001-01-01,Conference,New York Giants,41,Minnesota Vikings,0,41.0,41,push,Minnesota Vikings,New York Giants,41,-1.0,New York Giants,Minnesota Vikings,New York Giants
+7611,2001-01-14,2001-01-01,Conference,Las Vegas Raiders,3,Baltimore Ravens,16,19.0,38,under,Las Vegas Raiders,Baltimore Ravens,13,-6.0,Baltimore Ravens,Las Vegas Raiders,Baltimore Ravens
+7612,2001-01-28,2001-01-01,Superbowl,Baltimore Ravens,34,New York Giants,7,41.0,33,over,Baltimore Ravens,New York Giants,27,-3.0,Baltimore Ravens,New York Giants,Baltimore Ravens
+7861,2002-01-12,2002-01-01,Wildcard,Las Vegas Raiders,38,New York Jets,24,62.0,42,over,Las Vegas Raiders,New York Jets,14,-4.5,Las Vegas Raiders,New York Jets,Las Vegas Raiders
+7862,2002-01-12,2002-01-01,Wildcard,Philadelphia Eagles,31,Tampa Bay Buccaneers,9,40.0,33,over,Philadelphia Eagles,Tampa Bay Buccaneers,22,-3.5,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles
+7863,2002-01-13,2002-01-01,Wildcard,Green Bay Packers,25,San Francisco 49ers,15,40.0,39,over,Green Bay Packers,San Francisco 49ers,10,-3.5,Green Bay Packers,San Francisco 49ers,Green Bay Packers
+7864,2002-01-13,2002-01-01,Wildcard,Miami Dolphins,3,Baltimore Ravens,20,23.0,33,under,Miami Dolphins,Baltimore Ravens,17,-2.5,Baltimore Ravens,Miami Dolphins,Baltimore Ravens
+7865,2002-01-19,2002-01-01,Division,Chicago Bears,19,Philadelphia Eagles,33,52.0,32,over,Chicago Bears,Philadelphia Eagles,14,-3.0,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles
+7866,2002-01-19,2002-01-01,Division,New England Patriots,16,Las Vegas Raiders,13,29.0,41,under,New England Patriots,Las Vegas Raiders,3,-3.0,New England Patriots,Las Vegas Raiders,PUSH
+7867,2002-01-20,2002-01-01,Division,Pittsburgh Steelers,27,Baltimore Ravens,10,37.0,32,over,Pittsburgh Steelers,Baltimore Ravens,17,-5.5,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+7868,2002-01-20,2002-01-01,Division,Los Angeles Rams,45,Green Bay Packers,17,62.0,54,over,Los Angeles Rams,Green Bay Packers,28,-11.0,Los Angeles Rams,Green Bay Packers,Los Angeles Rams
+7869,2002-01-27,2002-01-01,Conference,Pittsburgh Steelers,17,New England Patriots,24,41.0,35,over,Pittsburgh Steelers,New England Patriots,7,-10.0,New England Patriots,Pittsburgh Steelers,New England Patriots
+7870,2002-01-27,2002-01-01,Conference,Los Angeles Rams,29,Philadelphia Eagles,24,53.0,51,over,Los Angeles Rams,Philadelphia Eagles,5,-11.0,Los Angeles Rams,Philadelphia Eagles,Philadelphia Eagles
+7871,2002-02-03,2002-01-01,Superbowl,Los Angeles Rams,17,New England Patriots,20,37.0,53,under,Los Angeles Rams,New England Patriots,3,-14.0,New England Patriots,Los Angeles Rams,New England Patriots
+8128,2003-01-04,2003-01-01,Wildcard,Green Bay Packers,7,Atlanta Falcons,27,34.0,40,under,Green Bay Packers,Atlanta Falcons,20,-6.5,Atlanta Falcons,Green Bay Packers,Atlanta Falcons
+8129,2003-01-04,2003-01-01,Wildcard,New York Jets,41,Indianapolis Colts,0,41.0,42,under,New York Jets,Indianapolis Colts,41,-6.0,New York Jets,Indianapolis Colts,New York Jets
+8130,2003-01-05,2003-01-01,Wildcard,Pittsburgh Steelers,36,Cleveland Browns,33,69.0,43,over,Pittsburgh Steelers,Cleveland Browns,3,-8.0,Pittsburgh Steelers,Cleveland Browns,Cleveland Browns
+8131,2003-01-05,2003-01-01,Wildcard,San Francisco 49ers,39,New York Giants,38,77.0,41,over,San Francisco 49ers,New York Giants,1,-3.0,San Francisco 49ers,New York Giants,New York Giants
+8132,2003-01-11,2003-01-01,Division,Philadelphia Eagles,20,Atlanta Falcons,6,26.0,38,under,Philadelphia Eagles,Atlanta Falcons,14,-7.5,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles
+8133,2003-01-11,2003-01-01,Division,Tennessee Titans,34,Pittsburgh Steelers,31,65.0,44,over,Tennessee Titans,Pittsburgh Steelers,3,-4.5,Tennessee Titans,Pittsburgh Steelers,Pittsburgh Steelers
+8134,2003-01-12,2003-01-01,Division,Las Vegas Raiders,30,New York Jets,10,40.0,47,under,Las Vegas Raiders,New York Jets,20,-5.5,Las Vegas Raiders,New York Jets,Las Vegas Raiders
+8135,2003-01-12,2003-01-01,Division,Tampa Bay Buccaneers,31,San Francisco 49ers,6,37.0,39,under,Tampa Bay Buccaneers,San Francisco 49ers,25,-6.0,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers
+8136,2003-01-19,2003-01-01,Conference,Las Vegas Raiders,41,Tennessee Titans,24,65.0,46,over,Las Vegas Raiders,Tennessee Titans,17,-9.0,Las Vegas Raiders,Tennessee Titans,Las Vegas Raiders
+8137,2003-01-19,2003-01-01,Conference,Philadelphia Eagles,10,Tampa Bay Buccaneers,27,37.0,33,over,Philadelphia Eagles,Tampa Bay Buccaneers,17,-4.0,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers
+8138,2003-01-26,2003-01-01,Superbowl,Las Vegas Raiders,21,Tampa Bay Buccaneers,48,69.0,44,over,Las Vegas Raiders,Tampa Bay Buccaneers,27,-4.0,Tampa Bay Buccaneers,Las Vegas Raiders,Tampa Bay Buccaneers
+8395,2004-01-03,2004-01-01,Wildcard,Baltimore Ravens,17,Tennessee Titans,20,37.0,38,under,Tennessee Titans,Baltimore Ravens,3,-1.0,Tennessee Titans,Baltimore Ravens,Tennessee Titans
+8396,2004-01-03,2004-01-01,Wildcard,Carolina Panthers,29,Dallas Cowboys,10,39.0,34,over,Carolina Panthers,Dallas Cowboys,19,-3.0,Carolina Panthers,Dallas Cowboys,Carolina Panthers
+8397,2004-01-04,2004-01-01,Wildcard,Green Bay Packers,33,Seattle Seahawks,27,60.0,43,over,Green Bay Packers,Seattle Seahawks,6,-7.5,Green Bay Packers,Seattle Seahawks,Seattle Seahawks
+8398,2004-01-04,2004-01-01,Wildcard,Indianapolis Colts,41,Denver Broncos,10,51.0,49,over,Indianapolis Colts,Denver Broncos,31,-3.0,Indianapolis Colts,Denver Broncos,Indianapolis Colts
+8399,2004-01-10,2004-01-01,Division,New England Patriots,17,Tennessee Titans,14,31.0,34,under,New England Patriots,Tennessee Titans,3,-6.0,New England Patriots,Tennessee Titans,Tennessee Titans
+8400,2004-01-10,2004-01-01,Division,Los Angeles Rams,23,Carolina Panthers,29,52.0,46,over,Los Angeles Rams,Carolina Panthers,6,-7.0,Carolina Panthers,Los Angeles Rams,Carolina Panthers
+8401,2004-01-11,2004-01-01,Division,Kansas City Chiefs,31,Indianapolis Colts,38,69.0,53,over,Kansas City Chiefs,Indianapolis Colts,7,-3.0,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts
+8402,2004-01-11,2004-01-01,Division,Philadelphia Eagles,20,Green Bay Packers,17,37.0,43,under,Philadelphia Eagles,Green Bay Packers,3,-4.0,Philadelphia Eagles,Green Bay Packers,Green Bay Packers
+8403,2004-01-18,2004-01-01,Conference,New England Patriots,24,Indianapolis Colts,14,38.0,42,under,New England Patriots,Indianapolis Colts,10,-3.5,New England Patriots,Indianapolis Colts,New England Patriots
+8404,2004-01-18,2004-01-01,Conference,Philadelphia Eagles,3,Carolina Panthers,14,17.0,36,under,Philadelphia Eagles,Carolina Panthers,11,-4.0,Carolina Panthers,Philadelphia Eagles,Carolina Panthers
+8405,2004-02-01,2004-01-01,Superbowl,New England Patriots,32,Carolina Panthers,29,61.0,37,over,New England Patriots,Carolina Panthers,3,-7.0,New England Patriots,Carolina Panthers,Carolina Panthers
+8662,2005-01-08,2005-01-01,Wildcard,Los Angeles Chargers,17,New York Jets,20,37.0,42,under,Los Angeles Chargers,New York Jets,3,-6.5,New York Jets,Los Angeles Chargers,New York Jets
+8663,2005-01-08,2005-01-01,Wildcard,Seattle Seahawks,20,Los Angeles Rams,27,47.0,51,under,Seattle Seahawks,Los Angeles Rams,7,-4.0,Los Angeles Rams,Seattle Seahawks,Los Angeles Rams
+8664,2005-01-09,2005-01-01,Wildcard,Green Bay Packers,17,Minnesota Vikings,31,48.0,52,under,Green Bay Packers,Minnesota Vikings,14,-6.0,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+8665,2005-01-09,2005-01-01,Wildcard,Indianapolis Colts,49,Denver Broncos,24,73.0,56,over,Indianapolis Colts,Denver Broncos,25,-10.0,Indianapolis Colts,Denver Broncos,Indianapolis Colts
+8666,2005-01-15,2005-01-01,Division,Atlanta Falcons,47,Los Angeles Rams,17,64.0,49,over,Atlanta Falcons,Los Angeles Rams,30,-6.5,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons
+8667,2005-01-15,2005-01-01,Division,Pittsburgh Steelers,20,New York Jets,17,37.0,35,over,Pittsburgh Steelers,New York Jets,3,-9.0,Pittsburgh Steelers,New York Jets,New York Jets
+8668,2005-01-16,2005-01-01,Division,New England Patriots,20,Indianapolis Colts,3,23.0,51,under,New England Patriots,Indianapolis Colts,17,-1.0,New England Patriots,Indianapolis Colts,New England Patriots
+8669,2005-01-16,2005-01-01,Division,Philadelphia Eagles,27,Minnesota Vikings,14,41.0,47,under,Philadelphia Eagles,Minnesota Vikings,13,-8.0,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles
+8670,2005-01-23,2005-01-01,Conference,Philadelphia Eagles,27,Atlanta Falcons,10,37.0,37,push,Philadelphia Eagles,Atlanta Falcons,17,-6.0,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles
+8671,2005-01-23,2005-01-01,Conference,Pittsburgh Steelers,27,New England Patriots,41,68.0,36,over,New England Patriots,Pittsburgh Steelers,14,-3.0,New England Patriots,Pittsburgh Steelers,New England Patriots
+8672,2005-02-06,2005-01-01,Superbowl,Philadelphia Eagles,21,New England Patriots,24,45.0,46,under,New England Patriots,Philadelphia Eagles,3,-7.0,New England Patriots,Philadelphia Eagles,Philadelphia Eagles
+8929,2006-01-07,2006-01-01,Wildcard,New England Patriots,28,Jacksonville Jaguars,3,31.0,37,under,New England Patriots,Jacksonville Jaguars,25,-8.0,New England Patriots,Jacksonville Jaguars,New England Patriots
+8930,2006-01-07,2006-01-01,Wildcard,Tampa Bay Buccaneers,10,Washington Commanders,17,27.0,37,under,Tampa Bay Buccaneers,Washington Commanders,7,-2.5,Washington Commanders,Tampa Bay Buccaneers,Washington Commanders
+8931,2006-01-08,2006-01-01,Wildcard,Cincinnati Bengals,17,Pittsburgh Steelers,31,48.0,44,over,Pittsburgh Steelers,Cincinnati Bengals,14,-3.0,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers
+8932,2006-01-08,2006-01-01,Wildcard,New York Giants,0,Carolina Panthers,23,23.0,43,under,New York Giants,Carolina Panthers,23,-3.0,Carolina Panthers,New York Giants,Carolina Panthers
+8933,2006-01-14,2006-01-01,Division,Denver Broncos,27,New England Patriots,13,40.0,44,under,Denver Broncos,New England Patriots,14,-3.0,Denver Broncos,New England Patriots,Denver Broncos
+8934,2006-01-14,2006-01-01,Division,Seattle Seahawks,20,Washington Commanders,10,30.0,41,under,Seattle Seahawks,Washington Commanders,10,-8.5,Seattle Seahawks,Washington Commanders,Seattle Seahawks
+8935,2006-01-15,2006-01-01,Division,Chicago Bears,21,Carolina Panthers,29,50.0,31,over,Chicago Bears,Carolina Panthers,8,-3.0,Carolina Panthers,Chicago Bears,Carolina Panthers
+8936,2006-01-15,2006-01-01,Division,Indianapolis Colts,18,Pittsburgh Steelers,21,39.0,46,under,Indianapolis Colts,Pittsburgh Steelers,3,-8.5,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers
+8937,2006-01-22,2006-01-01,Conference,Denver Broncos,17,Pittsburgh Steelers,34,51.0,41,over,Denver Broncos,Pittsburgh Steelers,17,-3.5,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers
+8938,2006-01-22,2006-01-01,Conference,Seattle Seahawks,34,Carolina Panthers,14,48.0,43,over,Seattle Seahawks,Carolina Panthers,20,-5.5,Seattle Seahawks,Carolina Panthers,Seattle Seahawks
+8939,2006-02-05,2006-01-01,Superbowl,Pittsburgh Steelers,21,Seattle Seahawks,10,31.0,47,under,Pittsburgh Steelers,Seattle Seahawks,11,-4.0,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers
+9196,2007-01-06,2007-01-01,Wildcard,Indianapolis Colts,23,Kansas City Chiefs,8,31.0,51,under,Indianapolis Colts,Kansas City Chiefs,15,-6.5,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts
+9197,2007-01-06,2007-01-01,Wildcard,Seattle Seahawks,21,Dallas Cowboys,20,41.0,48,under,Seattle Seahawks,Dallas Cowboys,1,-2.0,Seattle Seahawks,Dallas Cowboys,Dallas Cowboys
+9198,2007-01-07,2007-01-01,Wildcard,New England Patriots,37,New York Jets,16,53.0,38,over,New England Patriots,New York Jets,21,-9.0,New England Patriots,New York Jets,New England Patriots
+9199,2007-01-07,2007-01-01,Wildcard,Philadelphia Eagles,23,New York Giants,20,43.0,46,under,Philadelphia Eagles,New York Giants,3,-6.0,Philadelphia Eagles,New York Giants,New York Giants
+9200,2007-01-13,2007-01-01,Division,Baltimore Ravens,6,Indianapolis Colts,15,21.0,41,under,Baltimore Ravens,Indianapolis Colts,9,-4.0,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts
+9201,2007-01-13,2007-01-01,Division,New Orleans Saints,27,Philadelphia Eagles,24,51.0,48,over,New Orleans Saints,Philadelphia Eagles,3,-4.5,New Orleans Saints,Philadelphia Eagles,Philadelphia Eagles
+9202,2007-01-14,2007-01-01,Division,Chicago Bears,27,Seattle Seahawks,24,51.0,37,over,Chicago Bears,Seattle Seahawks,3,-8.5,Chicago Bears,Seattle Seahawks,Seattle Seahawks
+9203,2007-01-14,2007-01-01,Division,Los Angeles Chargers,21,New England Patriots,24,45.0,46,under,Los Angeles Chargers,New England Patriots,3,-5.0,New England Patriots,Los Angeles Chargers,New England Patriots
+9204,2007-01-21,2007-01-01,Conference,Chicago Bears,39,New Orleans Saints,14,53.0,43,over,Chicago Bears,New Orleans Saints,25,-3.0,Chicago Bears,New Orleans Saints,Chicago Bears
+9205,2007-01-21,2007-01-01,Conference,Indianapolis Colts,38,New England Patriots,34,72.0,47,over,Indianapolis Colts,New England Patriots,4,-3.0,Indianapolis Colts,New England Patriots,Indianapolis Colts
+9206,2007-02-04,2007-01-01,Superbowl,Indianapolis Colts,29,Chicago Bears,17,46.0,47,under,Indianapolis Colts,Chicago Bears,12,-7.0,Indianapolis Colts,Chicago Bears,Indianapolis Colts
+9463,2008-01-05,2008-01-01,Wildcard,Pittsburgh Steelers,29,Jacksonville Jaguars,31,60.0,40,over,Jacksonville Jaguars,Pittsburgh Steelers,2,-2.5,Jacksonville Jaguars,Pittsburgh Steelers,Pittsburgh Steelers
+9464,2008-01-05,2008-01-01,Wildcard,Seattle Seahawks,35,Washington Commanders,14,49.0,38,over,Seattle Seahawks,Washington Commanders,21,-3.5,Seattle Seahawks,Washington Commanders,Seattle Seahawks
+9465,2008-01-06,2008-01-01,Wildcard,Los Angeles Chargers,17,Tennessee Titans,6,23.0,39,under,Los Angeles Chargers,Tennessee Titans,11,-10.0,Los Angeles Chargers,Tennessee Titans,Los Angeles Chargers
+9466,2008-01-06,2008-01-01,Wildcard,Tampa Bay Buccaneers,14,New York Giants,24,38.0,39,under,Tampa Bay Buccaneers,New York Giants,10,-3.0,New York Giants,Tampa Bay Buccaneers,New York Giants
+9467,2008-01-12,2008-01-01,Division,Green Bay Packers,42,Seattle Seahawks,20,62.0,44,over,Green Bay Packers,Seattle Seahawks,22,-7.5,Green Bay Packers,Seattle Seahawks,Green Bay Packers
+9468,2008-01-12,2008-01-01,Division,New England Patriots,31,Jacksonville Jaguars,20,51.0,51,push,New England Patriots,Jacksonville Jaguars,11,-13.5,New England Patriots,Jacksonville Jaguars,Jacksonville Jaguars
+9469,2008-01-13,2008-01-01,Division,Dallas Cowboys,17,New York Giants,21,38.0,47,under,Dallas Cowboys,New York Giants,4,-7.0,New York Giants,Dallas Cowboys,New York Giants
+9470,2008-01-13,2008-01-01,Division,Indianapolis Colts,24,Los Angeles Chargers,28,52.0,47,over,Indianapolis Colts,Los Angeles Chargers,4,-11.0,Los Angeles Chargers,Indianapolis Colts,Los Angeles Chargers
+9471,2008-01-20,2008-01-01,Conference,Green Bay Packers,20,New York Giants,23,43.0,41,over,Green Bay Packers,New York Giants,3,-7.5,New York Giants,Green Bay Packers,New York Giants
+9472,2008-01-20,2008-01-01,Conference,New England Patriots,21,Los Angeles Chargers,12,33.0,48,under,New England Patriots,Los Angeles Chargers,9,-14.0,New England Patriots,Los Angeles Chargers,Los Angeles Chargers
+9473,2008-02-03,2008-01-01,Superbowl,New England Patriots,14,New York Giants,17,31.0,55,under,New England Patriots,New York Giants,3,-12.0,New York Giants,New England Patriots,New York Giants
+9730,2009-01-03,2009-01-01,Wildcard,Arizona Cardinals,30,Atlanta Falcons,24,54.0,52,over,Arizona Cardinals,Atlanta Falcons,6,-2.0,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals
+9731,2009-01-03,2009-01-01,Wildcard,Los Angeles Chargers,23,Indianapolis Colts,17,40.0,50,under,Indianapolis Colts,Los Angeles Chargers,6,-2.5,Los Angeles Chargers,Indianapolis Colts,Los Angeles Chargers
+9732,2009-01-04,2009-01-01,Wildcard,Miami Dolphins,9,Baltimore Ravens,27,36.0,38,under,Baltimore Ravens,Miami Dolphins,18,-3.5,Baltimore Ravens,Miami Dolphins,Baltimore Ravens
+9733,2009-01-04,2009-01-01,Wildcard,Minnesota Vikings,14,Philadelphia Eagles,26,40.0,41,under,Philadelphia Eagles,Minnesota Vikings,12,-3.5,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles
+9734,2009-01-10,2009-01-01,Division,Carolina Panthers,13,Arizona Cardinals,33,46.0,49,under,Carolina Panthers,Arizona Cardinals,20,-10.0,Arizona Cardinals,Carolina Panthers,Arizona Cardinals
+9735,2009-01-10,2009-01-01,Division,Tennessee Titans,10,Baltimore Ravens,13,23.0,33,under,Tennessee Titans,Baltimore Ravens,3,-3.0,Baltimore Ravens,Tennessee Titans,Baltimore Ravens
+9736,2009-01-11,2009-01-01,Division,New York Giants,11,Philadelphia Eagles,23,34.0,39,under,New York Giants,Philadelphia Eagles,12,-4.0,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+9737,2009-01-11,2009-01-01,Division,Pittsburgh Steelers,35,Los Angeles Chargers,24,59.0,38,over,Pittsburgh Steelers,Los Angeles Chargers,11,-6.5,Pittsburgh Steelers,Los Angeles Chargers,Pittsburgh Steelers
+9738,2009-01-18,2009-01-01,Conference,Arizona Cardinals,32,Philadelphia Eagles,25,57.0,47,over,Philadelphia Eagles,Arizona Cardinals,7,-3.5,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals
+9739,2009-01-18,2009-01-01,Conference,Pittsburgh Steelers,23,Baltimore Ravens,14,37.0,35,over,Pittsburgh Steelers,Baltimore Ravens,9,-6.0,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+9740,2009-02-01,2009-01-01,Superbowl,Arizona Cardinals,23,Pittsburgh Steelers,27,50.0,46,over,Pittsburgh Steelers,Arizona Cardinals,4,-7.0,Pittsburgh Steelers,Arizona Cardinals,Arizona Cardinals
+9997,2010-01-09,2010-01-01,Wildcard,Cincinnati Bengals,14,New York Jets,24,38.0,34,over,Cincinnati Bengals,New York Jets,10,-2.5,New York Jets,Cincinnati Bengals,New York Jets
+9998,2010-01-09,2010-01-01,Wildcard,Dallas Cowboys,34,Philadelphia Eagles,14,48.0,46,over,Dallas Cowboys,Philadelphia Eagles,20,-3.5,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+9999,2010-01-10,2010-01-01,Wildcard,Arizona Cardinals,51,Green Bay Packers,45,96.0,48,over,Green Bay Packers,Arizona Cardinals,6,-2.5,Arizona Cardinals,Green Bay Packers,Arizona Cardinals
+10000,2010-01-10,2010-01-01,Wildcard,New England Patriots,14,Baltimore Ravens,33,47.0,44,over,New England Patriots,Baltimore Ravens,19,-4.0,Baltimore Ravens,New England Patriots,Baltimore Ravens
+10001,2010-01-16,2010-01-01,Division,Indianapolis Colts,20,Baltimore Ravens,3,23.0,44,under,Indianapolis Colts,Baltimore Ravens,17,-6.5,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts
+10002,2010-01-16,2010-01-01,Division,New Orleans Saints,45,Arizona Cardinals,14,59.0,57,over,New Orleans Saints,Arizona Cardinals,31,-7.0,New Orleans Saints,Arizona Cardinals,New Orleans Saints
+10003,2010-01-17,2010-01-01,Division,Minnesota Vikings,34,Dallas Cowboys,3,37.0,45,under,Minnesota Vikings,Dallas Cowboys,31,-2.5,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings
+10004,2010-01-17,2010-01-01,Division,Los Angeles Chargers,14,New York Jets,17,31.0,42,under,Los Angeles Chargers,New York Jets,3,-9.0,New York Jets,Los Angeles Chargers,New York Jets
+10005,2010-01-24,2010-01-01,Conference,Indianapolis Colts,30,New York Jets,17,47.0,40,over,Indianapolis Colts,New York Jets,13,-8.5,Indianapolis Colts,New York Jets,Indianapolis Colts
+10006,2010-01-24,2010-01-01,Conference,New Orleans Saints,31,Minnesota Vikings,28,59.0,54,over,New Orleans Saints,Minnesota Vikings,3,-3.5,New Orleans Saints,Minnesota Vikings,Minnesota Vikings
+10007,2010-02-07,2010-01-01,Superbowl,Indianapolis Colts,17,New Orleans Saints,31,48.0,57,under,Indianapolis Colts,New Orleans Saints,14,-5.0,New Orleans Saints,Indianapolis Colts,New Orleans Saints
+10264,2011-01-08,2011-01-01,Wildcard,Indianapolis Colts,16,New York Jets,17,33.0,44,under,Indianapolis Colts,New York Jets,1,-2.0,New York Jets,Indianapolis Colts,New York Jets
+10265,2011-01-08,2011-01-01,Wildcard,Seattle Seahawks,41,New Orleans Saints,36,77.0,46,over,New Orleans Saints,Seattle Seahawks,5,-10.0,Seattle Seahawks,New Orleans Saints,Seattle Seahawks
+10266,2011-01-09,2011-01-01,Wildcard,Kansas City Chiefs,7,Baltimore Ravens,30,37.0,41,under,Baltimore Ravens,Kansas City Chiefs,23,-3.0,Baltimore Ravens,Kansas City Chiefs,Baltimore Ravens
+10267,2011-01-09,2011-01-01,Wildcard,Philadelphia Eagles,16,Green Bay Packers,21,37.0,47,under,Philadelphia Eagles,Green Bay Packers,5,-2.5,Green Bay Packers,Philadelphia Eagles,Green Bay Packers
+10268,2011-01-15,2011-01-01,Division,Atlanta Falcons,21,Green Bay Packers,48,69.0,43,over,Atlanta Falcons,Green Bay Packers,27,-1.5,Green Bay Packers,Atlanta Falcons,Green Bay Packers
+10269,2011-01-15,2011-01-01,Division,Pittsburgh Steelers,31,Baltimore Ravens,24,55.0,37,over,Pittsburgh Steelers,Baltimore Ravens,7,-3.0,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+10270,2011-01-16,2011-01-01,Division,Chicago Bears,35,Seattle Seahawks,24,59.0,43,over,Chicago Bears,Seattle Seahawks,11,-10.0,Chicago Bears,Seattle Seahawks,Chicago Bears
+10271,2011-01-16,2011-01-01,Division,New England Patriots,21,New York Jets,28,49.0,45,over,New England Patriots,New York Jets,7,-9.5,New York Jets,New England Patriots,New York Jets
+10272,2011-01-23,2011-01-01,Conference,Chicago Bears,14,Green Bay Packers,21,35.0,42,under,Green Bay Packers,Chicago Bears,7,-3.5,Green Bay Packers,Chicago Bears,Green Bay Packers
+10273,2011-01-23,2011-01-01,Conference,Pittsburgh Steelers,24,New York Jets,19,43.0,38,over,Pittsburgh Steelers,New York Jets,5,-4.0,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers
+10274,2011-02-06,2011-01-01,Superbowl,Green Bay Packers,31,Pittsburgh Steelers,25,56.0,45,over,Green Bay Packers,Pittsburgh Steelers,6,-3.0,Green Bay Packers,Pittsburgh Steelers,Green Bay Packers
+10531,2012-01-07,2012-01-01,Wildcard,Houston Texans,31,Cincinnati Bengals,10,41.0,38,over,Houston Texans,Cincinnati Bengals,21,-4.0,Houston Texans,Cincinnati Bengals,Houston Texans
+10532,2012-01-07,2012-01-01,Wildcard,New Orleans Saints,45,Detroit Lions,28,73.0,60,over,New Orleans Saints,Detroit Lions,17,-10.5,New Orleans Saints,Detroit Lions,New Orleans Saints
+10533,2012-01-08,2012-01-01,Wildcard,Denver Broncos,29,Pittsburgh Steelers,23,52.0,34,over,Pittsburgh Steelers,Denver Broncos,6,-7.5,Denver Broncos,Pittsburgh Steelers,Denver Broncos
+10534,2012-01-08,2012-01-01,Wildcard,New York Giants,24,Atlanta Falcons,2,26.0,48,under,New York Giants,Atlanta Falcons,22,-3.0,New York Giants,Atlanta Falcons,New York Giants
+10535,2012-01-14,2012-01-01,Division,New England Patriots,45,Denver Broncos,10,55.0,50,over,New England Patriots,Denver Broncos,35,-13.5,New England Patriots,Denver Broncos,New England Patriots
+10536,2012-01-14,2012-01-01,Division,San Francisco 49ers,36,New Orleans Saints,32,68.0,47,over,New Orleans Saints,San Francisco 49ers,4,-3.5,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
+10537,2012-01-15,2012-01-01,Division,Baltimore Ravens,20,Houston Texans,13,33.0,37,under,Baltimore Ravens,Houston Texans,7,-8.0,Baltimore Ravens,Houston Texans,Houston Texans
+10538,2012-01-15,2012-01-01,Division,Green Bay Packers,20,New York Giants,37,57.0,54,over,Green Bay Packers,New York Giants,17,-8.0,New York Giants,Green Bay Packers,New York Giants
+10539,2012-01-22,2012-01-01,Conference,New England Patriots,23,Baltimore Ravens,20,43.0,50,under,New England Patriots,Baltimore Ravens,3,-7.0,New England Patriots,Baltimore Ravens,Baltimore Ravens
+10540,2012-01-22,2012-01-01,Conference,San Francisco 49ers,17,New York Giants,20,37.0,41,under,San Francisco 49ers,New York Giants,3,-2.0,New York Giants,San Francisco 49ers,New York Giants
+10541,2012-02-05,2012-01-01,Superbowl,New England Patriots,17,New York Giants,21,38.0,53,under,New England Patriots,New York Giants,4,-2.5,New York Giants,New England Patriots,New York Giants
+10798,2013-01-05,2013-01-01,Wildcard,Green Bay Packers,24,Minnesota Vikings,10,34.0,44,under,Green Bay Packers,Minnesota Vikings,14,-11.0,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+10799,2013-01-05,2013-01-01,Wildcard,Houston Texans,19,Cincinnati Bengals,13,32.0,42,under,Houston Texans,Cincinnati Bengals,6,-4.0,Houston Texans,Cincinnati Bengals,Houston Texans
+10800,2013-01-06,2013-01-01,Wildcard,Baltimore Ravens,24,Indianapolis Colts,9,33.0,47,under,Baltimore Ravens,Indianapolis Colts,15,-7.0,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens
+10801,2013-01-06,2013-01-01,Wildcard,Washington Commanders,14,Seattle Seahawks,24,38.0,45,under,Seattle Seahawks,Washington Commanders,10,-3.0,Seattle Seahawks,Washington Commanders,Seattle Seahawks
+10802,2013-01-12,2013-01-01,Division,Denver Broncos,35,Baltimore Ravens,38,73.0,44,over,Denver Broncos,Baltimore Ravens,3,-9.0,Baltimore Ravens,Denver Broncos,Baltimore Ravens
+10803,2013-01-12,2013-01-01,Division,San Francisco 49ers,45,Green Bay Packers,31,76.0,45,over,San Francisco 49ers,Green Bay Packers,14,-3.0,San Francisco 49ers,Green Bay Packers,San Francisco 49ers
+10804,2013-01-13,2013-01-01,Division,Atlanta Falcons,30,Seattle Seahawks,28,58.0,47,over,Atlanta Falcons,Seattle Seahawks,2,-3.0,Atlanta Falcons,Seattle Seahawks,Seattle Seahawks
+10805,2013-01-13,2013-01-01,Division,New England Patriots,41,Houston Texans,28,69.0,51,over,New England Patriots,Houston Texans,13,-9.5,New England Patriots,Houston Texans,New England Patriots
+10806,2013-01-20,2013-01-01,Conference,Atlanta Falcons,24,San Francisco 49ers,28,52.0,49,over,San Francisco 49ers,Atlanta Falcons,4,-4.5,San Francisco 49ers,Atlanta Falcons,Atlanta Falcons
+10807,2013-01-20,2013-01-01,Conference,New England Patriots,13,Baltimore Ravens,28,41.0,51,under,New England Patriots,Baltimore Ravens,15,-7.5,Baltimore Ravens,New England Patriots,Baltimore Ravens
+10808,2013-02-03,2013-01-01,Superbowl,San Francisco 49ers,31,Baltimore Ravens,34,65.0,48,over,San Francisco 49ers,Baltimore Ravens,3,-4.5,Baltimore Ravens,San Francisco 49ers,Baltimore Ravens
+11065,2014-01-04,2014-01-01,Wildcard,Indianapolis Colts,45,Kansas City Chiefs,44,89.0,46,over,Kansas City Chiefs,Indianapolis Colts,1,-2.5,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts
+11066,2014-01-04,2014-01-01,Wildcard,Philadelphia Eagles,24,New Orleans Saints,26,50.0,53,under,Philadelphia Eagles,New Orleans Saints,2,-3.0,New Orleans Saints,Philadelphia Eagles,New Orleans Saints
+11067,2014-01-05,2014-01-01,Wildcard,Cincinnati Bengals,10,Los Angeles Chargers,27,37.0,48,under,Cincinnati Bengals,Los Angeles Chargers,17,-6.0,Los Angeles Chargers,Cincinnati Bengals,Los Angeles Chargers
+11068,2014-01-05,2014-01-01,Wildcard,Green Bay Packers,20,San Francisco 49ers,23,43.0,46,under,San Francisco 49ers,Green Bay Packers,3,-3.0,San Francisco 49ers,Green Bay Packers,PUSH
+11069,2014-01-11,2014-01-01,Division,New England Patriots,43,Indianapolis Colts,22,65.0,51,over,New England Patriots,Indianapolis Colts,21,-7.0,New England Patriots,Indianapolis Colts,New England Patriots
+11070,2014-01-11,2014-01-01,Division,Seattle Seahawks,23,New Orleans Saints,15,38.0,44,under,Seattle Seahawks,New Orleans Saints,8,-9.0,Seattle Seahawks,New Orleans Saints,New Orleans Saints
+11071,2014-01-12,2014-01-01,Division,Carolina Panthers,10,San Francisco 49ers,23,33.0,41,under,San Francisco 49ers,Carolina Panthers,13,-1.0,San Francisco 49ers,Carolina Panthers,San Francisco 49ers
+11072,2014-01-12,2014-01-01,Division,Denver Broncos,24,Los Angeles Chargers,17,41.0,54,under,Denver Broncos,Los Angeles Chargers,7,-7.5,Denver Broncos,Los Angeles Chargers,Los Angeles Chargers
+11073,2014-01-19,2014-01-01,Conference,Denver Broncos,26,New England Patriots,16,42.0,57,under,Denver Broncos,New England Patriots,10,-5.0,Denver Broncos,New England Patriots,Denver Broncos
+11074,2014-01-19,2014-01-01,Conference,Seattle Seahawks,23,San Francisco 49ers,17,40.0,40,push,Seattle Seahawks,San Francisco 49ers,6,-4.0,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks
+11075,2014-02-02,2014-01-01,Superbowl,Denver Broncos,8,Seattle Seahawks,43,51.0,47,over,Denver Broncos,Seattle Seahawks,35,-2.0,Seattle Seahawks,Denver Broncos,Seattle Seahawks
+11332,2015-01-03,2015-01-01,Wildcard,Carolina Panthers,27,Arizona Cardinals,16,43.0,37,over,Carolina Panthers,Arizona Cardinals,11,-5.5,Carolina Panthers,Arizona Cardinals,Carolina Panthers
+11333,2015-01-03,2015-01-01,Wildcard,Pittsburgh Steelers,17,Baltimore Ravens,30,47.0,45,over,Pittsburgh Steelers,Baltimore Ravens,13,-3.0,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
+11334,2015-01-04,2015-01-01,Wildcard,Dallas Cowboys,24,Detroit Lions,20,44.0,48,under,Dallas Cowboys,Detroit Lions,4,-6.0,Dallas Cowboys,Detroit Lions,Detroit Lions
+11335,2015-01-04,2015-01-01,Wildcard,Indianapolis Colts,26,Cincinnati Bengals,10,36.0,48,under,Indianapolis Colts,Cincinnati Bengals,16,-3.5,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts
+11336,2015-01-10,2015-01-01,Division,New England Patriots,35,Baltimore Ravens,31,66.0,47,over,New England Patriots,Baltimore Ravens,4,-7.0,New England Patriots,Baltimore Ravens,Baltimore Ravens
+11337,2015-01-10,2015-01-01,Division,Seattle Seahawks,31,Carolina Panthers,17,48.0,39,over,Seattle Seahawks,Carolina Panthers,14,-13.5,Seattle Seahawks,Carolina Panthers,Seattle Seahawks
+11338,2015-01-11,2015-01-01,Division,Denver Broncos,13,Indianapolis Colts,24,37.0,53,under,Denver Broncos,Indianapolis Colts,11,-9.5,Indianapolis Colts,Denver Broncos,Indianapolis Colts
+11339,2015-01-11,2015-01-01,Division,Green Bay Packers,26,Dallas Cowboys,21,47.0,51,under,Green Bay Packers,Dallas Cowboys,5,-5.5,Green Bay Packers,Dallas Cowboys,Dallas Cowboys
+11340,2015-01-18,2015-01-01,Conference,New England Patriots,45,Indianapolis Colts,7,52.0,52,push,New England Patriots,Indianapolis Colts,38,-7.0,New England Patriots,Indianapolis Colts,New England Patriots
+11341,2015-01-18,2015-01-01,Conference,Seattle Seahawks,28,Green Bay Packers,22,50.0,45,over,Seattle Seahawks,Green Bay Packers,6,-8.5,Seattle Seahawks,Green Bay Packers,Green Bay Packers
+11342,2015-02-01,2015-01-01,Superbowl,Seattle Seahawks,24,New England Patriots,28,52.0,47,over,New England Patriots,Seattle Seahawks,4,-1.0,New England Patriots,Seattle Seahawks,New England Patriots
+11599,2016-01-09,2016-01-01,Wildcard,Cincinnati Bengals,16,Pittsburgh Steelers,18,34.0,45,under,Pittsburgh Steelers,Cincinnati Bengals,2,-3.0,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals
+11600,2016-01-09,2016-01-01,Wildcard,Houston Texans,0,Kansas City Chiefs,30,30.0,40,under,Kansas City Chiefs,Houston Texans,30,-3.0,Kansas City Chiefs,Houston Texans,Kansas City Chiefs
+11601,2016-01-10,2016-01-01,Wildcard,Minnesota Vikings,9,Seattle Seahawks,10,19.0,40,under,Seattle Seahawks,Minnesota Vikings,1,-4.5,Seattle Seahawks,Minnesota Vikings,Minnesota Vikings
+11602,2016-01-10,2016-01-01,Wildcard,Washington Commanders,18,Green Bay Packers,35,53.0,46,over,Washington Commanders,Green Bay Packers,17,-1.0,Green Bay Packers,Washington Commanders,Green Bay Packers
+11603,2016-01-16,2016-01-01,Division,Arizona Cardinals,26,Green Bay Packers,20,46.0,49,under,Arizona Cardinals,Green Bay Packers,6,-7.0,Arizona Cardinals,Green Bay Packers,Green Bay Packers
+11604,2016-01-16,2016-01-01,Division,New England Patriots,27,Kansas City Chiefs,20,47.0,43,over,New England Patriots,Kansas City Chiefs,7,-4.5,New England Patriots,Kansas City Chiefs,New England Patriots
+11605,2016-01-17,2016-01-01,Division,Carolina Panthers,31,Seattle Seahawks,24,55.0,44,over,Carolina Panthers,Seattle Seahawks,7,-2.5,Carolina Panthers,Seattle Seahawks,Carolina Panthers
+11606,2016-01-17,2016-01-01,Division,Denver Broncos,23,Pittsburgh Steelers,16,39.0,41,under,Denver Broncos,Pittsburgh Steelers,7,-7.5,Denver Broncos,Pittsburgh Steelers,Pittsburgh Steelers
+11607,2016-01-24,2016-01-01,Conference,Carolina Panthers,49,Arizona Cardinals,15,64.0,47,over,Carolina Panthers,Arizona Cardinals,34,-3.0,Carolina Panthers,Arizona Cardinals,Carolina Panthers
+11608,2016-01-24,2016-01-01,Conference,Denver Broncos,20,New England Patriots,18,38.0,44,under,New England Patriots,Denver Broncos,2,-3.0,Denver Broncos,New England Patriots,Denver Broncos
+11609,2016-02-07,2016-01-01,Superbowl,Denver Broncos,24,Carolina Panthers,10,34.0,43,under,Carolina Panthers,Denver Broncos,14,-4.5,Denver Broncos,Carolina Panthers,Denver Broncos
+11866,2017-01-07,2017-01-01,Wildcard,Houston Texans,27,Las Vegas Raiders,14,41.0,38,over,Houston Texans,Las Vegas Raiders,13,-4.0,Houston Texans,Las Vegas Raiders,Houston Texans
+11867,2017-01-07,2017-01-01,Wildcard,Seattle Seahawks,26,Detroit Lions,6,32.0,45,under,Seattle Seahawks,Detroit Lions,20,-8.0,Seattle Seahawks,Detroit Lions,Seattle Seahawks
+11868,2017-01-08,2017-01-01,Wildcard,Green Bay Packers,38,New York Giants,13,51.0,46,over,Green Bay Packers,New York Giants,25,-5.0,Green Bay Packers,New York Giants,Green Bay Packers
+11869,2017-01-08,2017-01-01,Wildcard,Pittsburgh Steelers,30,Miami Dolphins,12,42.0,47,under,Pittsburgh Steelers,Miami Dolphins,18,-11.0,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers
+11870,2017-01-14,2017-01-01,Division,Atlanta Falcons,36,Seattle Seahawks,20,56.0,51,over,Atlanta Falcons,Seattle Seahawks,16,-6.5,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons
+11871,2017-01-14,2017-01-01,Division,New England Patriots,34,Houston Texans,16,50.0,44,over,New England Patriots,Houston Texans,18,-16.0,New England Patriots,Houston Texans,New England Patriots
+11872,2017-01-15,2017-01-01,Division,Dallas Cowboys,31,Green Bay Packers,34,65.0,52,over,Dallas Cowboys,Green Bay Packers,3,-5.5,Green Bay Packers,Dallas Cowboys,Green Bay Packers
+11873,2017-01-15,2017-01-01,Division,Kansas City Chiefs,16,Pittsburgh Steelers,18,34.0,45,under,Kansas City Chiefs,Pittsburgh Steelers,2,-2.5,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers
+11874,2017-01-22,2017-01-01,Conference,Atlanta Falcons,44,Green Bay Packers,21,65.0,59,over,Atlanta Falcons,Green Bay Packers,23,-6.5,Atlanta Falcons,Green Bay Packers,Atlanta Falcons
+11875,2017-01-22,2017-01-01,Conference,New England Patriots,36,Pittsburgh Steelers,17,53.0,50,over,New England Patriots,Pittsburgh Steelers,19,-5.5,New England Patriots,Pittsburgh Steelers,New England Patriots
+11876,2017-02-05,2017-01-01,Superbowl,Atlanta Falcons,28,New England Patriots,34,62.0,57,over,New England Patriots,Atlanta Falcons,6,-3.0,New England Patriots,Atlanta Falcons,New England Patriots
+12133,2018-01-06,2018-01-01,Wildcard,Kansas City Chiefs,21,Tennessee Titans,22,43.0,44,under,Kansas City Chiefs,Tennessee Titans,1,-8.5,Tennessee Titans,Kansas City Chiefs,Tennessee Titans
+12134,2018-01-06,2018-01-01,Wildcard,Los Angeles Rams,13,Atlanta Falcons,26,39.0,48,under,Los Angeles Rams,Atlanta Falcons,13,-6.5,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons
+12135,2018-01-07,2018-01-01,Wildcard,Jacksonville Jaguars,10,Buffalo Bills,3,13.0,39,under,Jacksonville Jaguars,Buffalo Bills,7,-8.0,Jacksonville Jaguars,Buffalo Bills,Buffalo Bills
+12136,2018-01-07,2018-01-01,Wildcard,New Orleans Saints,31,Carolina Panthers,26,57.0,47,over,New Orleans Saints,Carolina Panthers,5,-6.5,New Orleans Saints,Carolina Panthers,Carolina Panthers
+12137,2018-01-13,2018-01-01,Division,New England Patriots,35,Tennessee Titans,14,49.0,48,over,New England Patriots,Tennessee Titans,21,-13.5,New England Patriots,Tennessee Titans,New England Patriots
+12138,2018-01-13,2018-01-01,Division,Philadelphia Eagles,15,Atlanta Falcons,10,25.0,40,under,Atlanta Falcons,Philadelphia Eagles,5,-2.5,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles
+12139,2018-01-14,2018-01-01,Division,Minnesota Vikings,29,New Orleans Saints,24,53.0,46,over,Minnesota Vikings,New Orleans Saints,5,-5.5,Minnesota Vikings,New Orleans Saints,New Orleans Saints
+12140,2018-01-14,2018-01-01,Division,Pittsburgh Steelers,42,Jacksonville Jaguars,45,87.0,40,over,Pittsburgh Steelers,Jacksonville Jaguars,3,-7.0,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars
+12141,2018-01-21,2018-01-01,Conference,New England Patriots,24,Jacksonville Jaguars,20,44.0,46,under,New England Patriots,Jacksonville Jaguars,4,-7.5,New England Patriots,Jacksonville Jaguars,Jacksonville Jaguars
+12142,2018-01-21,2018-01-01,Conference,Philadelphia Eagles,38,Minnesota Vikings,7,45.0,39,over,Minnesota Vikings,Philadelphia Eagles,31,-3.0,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles
+12143,2018-02-04,2018-01-01,Superbowl,New England Patriots,33,Philadelphia Eagles,41,74.0,48,over,New England Patriots,Philadelphia Eagles,8,-4.5,Philadelphia Eagles,New England Patriots,Philadelphia Eagles
+12400,2019-01-05,2019-01-01,Wildcard,Dallas Cowboys,24,Seattle Seahawks,22,46.0,43,over,Dallas Cowboys,Seattle Seahawks,2,-2.5,Dallas Cowboys,Seattle Seahawks,Seattle Seahawks
+12401,2019-01-05,2019-01-01,Wildcard,Houston Texans,7,Indianapolis Colts,21,28.0,48,under,Houston Texans,Indianapolis Colts,14,-2.0,Indianapolis Colts,Houston Texans,Indianapolis Colts
+12402,2019-01-06,2019-01-01,Wildcard,Baltimore Ravens,17,Los Angeles Chargers,23,40.0,43,under,Baltimore Ravens,Los Angeles Chargers,6,-3.0,Los Angeles Chargers,Baltimore Ravens,Los Angeles Chargers
+12403,2019-01-06,2019-01-01,Wildcard,Chicago Bears,15,Philadelphia Eagles,16,31.0,41,under,Chicago Bears,Philadelphia Eagles,1,-6.5,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles
+12404,2019-01-12,2019-01-01,Division,Kansas City Chiefs,31,Indianapolis Colts,13,44.0,54,under,Kansas City Chiefs,Indianapolis Colts,18,-4.0,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs
+12405,2019-01-12,2019-01-01,Division,Los Angeles Rams,30,Dallas Cowboys,22,52.0,48,over,Los Angeles Rams,Dallas Cowboys,8,-7.5,Los Angeles Rams,Dallas Cowboys,Los Angeles Rams
+12406,2019-01-13,2019-01-01,Division,New England Patriots,41,Los Angeles Chargers,28,69.0,47,over,New England Patriots,Los Angeles Chargers,13,-3.5,New England Patriots,Los Angeles Chargers,New England Patriots
+12407,2019-01-13,2019-01-01,Division,New Orleans Saints,20,Philadelphia Eagles,14,34.0,52,under,New Orleans Saints,Philadelphia Eagles,6,-8.5,New Orleans Saints,Philadelphia Eagles,Philadelphia Eagles
+12408,2019-01-20,2019-01-01,Conference,Kansas City Chiefs,31,New England Patriots,37,68.0,56,over,Kansas City Chiefs,New England Patriots,6,-3.0,New England Patriots,Kansas City Chiefs,New England Patriots
+12409,2019-01-20,2019-01-01,Conference,New Orleans Saints,23,Los Angeles Rams,26,49.0,55,under,New Orleans Saints,Los Angeles Rams,3,-3.0,Los Angeles Rams,New Orleans Saints,Los Angeles Rams
+12410,2019-02-03,2019-01-01,Superbowl,Los Angeles Rams,3,New England Patriots,13,16.0,55,under,New England Patriots,Los Angeles Rams,10,-2.0,New England Patriots,Los Angeles Rams,New England Patriots
+12667,2020-01-04,2020-01-01,Wildcard,Houston Texans,22,Buffalo Bills,19,41.0,43,under,Houston Texans,Buffalo Bills,3,-2.5,Houston Texans,Buffalo Bills,Houston Texans
+12668,2020-01-04,2020-01-01,Wildcard,New England Patriots,13,Tennessee Titans,20,33.0,45,under,New England Patriots,Tennessee Titans,7,-4.5,Tennessee Titans,New England Patriots,Tennessee Titans
+12669,2020-01-05,2020-01-01,Wildcard,New Orleans Saints,20,Minnesota Vikings,26,46.0,49,under,New Orleans Saints,Minnesota Vikings,6,-7.5,Minnesota Vikings,New Orleans Saints,Minnesota Vikings
+12670,2020-01-05,2020-01-01,Wildcard,Philadelphia Eagles,9,Seattle Seahawks,17,26.0,44,under,Philadelphia Eagles,Seattle Seahawks,8,-1.0,Seattle Seahawks,Philadelphia Eagles,Seattle Seahawks
+12671,2020-01-11,2020-01-01,Division,Baltimore Ravens,12,Tennessee Titans,28,40.0,47,under,Baltimore Ravens,Tennessee Titans,16,-10.0,Tennessee Titans,Baltimore Ravens,Tennessee Titans
+12672,2020-01-11,2020-01-01,Division,San Francisco 49ers,27,Minnesota Vikings,10,37.0,44,under,San Francisco 49ers,Minnesota Vikings,17,-7.0,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers
+12673,2020-01-12,2020-01-01,Division,Green Bay Packers,28,Seattle Seahawks,23,51.0,45,over,Green Bay Packers,Seattle Seahawks,5,-4.5,Green Bay Packers,Seattle Seahawks,Green Bay Packers
+12674,2020-01-12,2020-01-01,Division,Kansas City Chiefs,51,Houston Texans,31,82.0,50,over,Kansas City Chiefs,Houston Texans,20,-10.0,Kansas City Chiefs,Houston Texans,Kansas City Chiefs
+12675,2020-01-19,2020-01-01,Conference,Kansas City Chiefs,35,Tennessee Titans,24,59.0,51,over,Kansas City Chiefs,Tennessee Titans,11,-7.0,Kansas City Chiefs,Tennessee Titans,Kansas City Chiefs
+12676,2020-01-19,2020-01-01,Conference,San Francisco 49ers,37,Green Bay Packers,20,57.0,46,over,San Francisco 49ers,Green Bay Packers,17,-8.0,San Francisco 49ers,Green Bay Packers,San Francisco 49ers
+12677,2020-02-02,2020-01-01,Superbowl,Kansas City Chiefs,31,San Francisco 49ers,20,51.0,53,under,Kansas City Chiefs,San Francisco 49ers,11,-1.5,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs
+12934,2021-01-09,2021-01-01,Wildcard,Buffalo Bills,27,Indianapolis Colts,24,51.0,50,over,Buffalo Bills,Indianapolis Colts,3,-7.0,Buffalo Bills,Indianapolis Colts,Indianapolis Colts
+12935,2021-01-09,2021-01-01,Wildcard,Seattle Seahawks,20,Los Angeles Rams,30,50.0,42,over,Seattle Seahawks,Los Angeles Rams,10,-3.0,Los Angeles Rams,Seattle Seahawks,Los Angeles Rams
+12936,2021-01-09,2021-01-01,Wildcard,Washington Commanders,23,Tampa Bay Buccaneers,31,54.0,45,over,Tampa Bay Buccaneers,Washington Commanders,8,-10.0,Tampa Bay Buccaneers,Washington Commanders,Washington Commanders
+12937,2021-01-10,2021-01-01,Wildcard,New Orleans Saints,21,Chicago Bears,9,30.0,48,under,New Orleans Saints,Chicago Bears,12,-11.0,New Orleans Saints,Chicago Bears,New Orleans Saints
+12938,2021-01-10,2021-01-01,Wildcard,Pittsburgh Steelers,37,Cleveland Browns,48,85.0,47,over,Pittsburgh Steelers,Cleveland Browns,11,-5.5,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+12939,2021-01-10,2021-01-01,Wildcard,Tennessee Titans,13,Baltimore Ravens,20,33.0,53,under,Baltimore Ravens,Tennessee Titans,7,-3.5,Baltimore Ravens,Tennessee Titans,Baltimore Ravens
+12940,2021-01-16,2021-01-01,Division,Buffalo Bills,17,Baltimore Ravens,3,20.0,49,under,Buffalo Bills,Baltimore Ravens,14,-2.5,Buffalo Bills,Baltimore Ravens,Buffalo Bills
+12941,2021-01-16,2021-01-01,Division,Green Bay Packers,32,Los Angeles Rams,18,50.0,45,over,Green Bay Packers,Los Angeles Rams,14,-7.0,Green Bay Packers,Los Angeles Rams,Green Bay Packers
+12942,2021-01-17,2021-01-01,Division,Kansas City Chiefs,22,Cleveland Browns,17,39.0,56,under,Kansas City Chiefs,Cleveland Browns,5,-8.0,Kansas City Chiefs,Cleveland Browns,Cleveland Browns
+12943,2021-01-17,2021-01-01,Division,New Orleans Saints,20,Tampa Bay Buccaneers,30,50.0,53,under,New Orleans Saints,Tampa Bay Buccaneers,10,-2.5,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
+12944,2021-01-24,2021-01-01,Conference,Green Bay Packers,26,Tampa Bay Buccaneers,31,57.0,53,over,Green Bay Packers,Tampa Bay Buccaneers,5,-3.0,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
+12945,2021-01-24,2021-01-01,Conference,Kansas City Chiefs,38,Buffalo Bills,24,62.0,55,over,Kansas City Chiefs,Buffalo Bills,14,-3.0,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs
+12946,2021-02-07,2021-01-01,Superbowl,Tampa Bay Buccaneers,31,Kansas City Chiefs,9,40.0,54,under,Kansas City Chiefs,Tampa Bay Buccaneers,22,-3.0,Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay Buccaneers
+13219,2022-01-15,2022-01-01,Wildcard,Buffalo Bills,47,New England Patriots,17,64.0,43,over,Buffalo Bills,New England Patriots,30,-4.5,Buffalo Bills,New England Patriots,Buffalo Bills
+13220,2022-01-15,2022-01-01,Wildcard,Cincinnati Bengals,26,Las Vegas Raiders,19,45.0,48,under,Cincinnati Bengals,Las Vegas Raiders,7,-6.0,Cincinnati Bengals,Las Vegas Raiders,Cincinnati Bengals
+13221,2022-01-16,2022-01-01,Wildcard,Dallas Cowboys,17,San Francisco 49ers,23,40.0,51,under,Dallas Cowboys,San Francisco 49ers,6,-3.5,San Francisco 49ers,Dallas Cowboys,San Francisco 49ers
+13222,2022-01-16,2022-01-01,Wildcard,Kansas City Chiefs,42,Pittsburgh Steelers,21,63.0,47,over,Kansas City Chiefs,Pittsburgh Steelers,21,-12.5,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs
+13223,2022-01-16,2022-01-01,Wildcard,Tampa Bay Buccaneers,31,Philadelphia Eagles,15,46.0,47,under,Tampa Bay Buccaneers,Philadelphia Eagles,16,-7.0,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers
+13224,2022-01-17,2022-01-01,Wildcard,Los Angeles Rams,34,Arizona Cardinals,11,45.0,49,under,Los Angeles Rams,Arizona Cardinals,23,-3.5,Los Angeles Rams,Arizona Cardinals,Los Angeles Rams
+13225,2022-01-22,2022-01-01,Division,Green Bay Packers,10,San Francisco 49ers,13,23.0,47,under,Green Bay Packers,San Francisco 49ers,3,-5.5,San Francisco 49ers,Green Bay Packers,San Francisco 49ers
+13226,2022-01-22,2022-01-01,Division,Tennessee Titans,16,Cincinnati Bengals,19,35.0,48,under,Tennessee Titans,Cincinnati Bengals,3,-4.0,Cincinnati Bengals,Tennessee Titans,Cincinnati Bengals
+13227,2022-01-23,2022-01-01,Division,Kansas City Chiefs,42,Buffalo Bills,36,78.0,54,over,Kansas City Chiefs,Buffalo Bills,6,-2.5,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs
+13228,2022-01-23,2022-01-01,Division,Tampa Bay Buccaneers,27,Los Angeles Rams,30,57.0,48,over,Tampa Bay Buccaneers,Los Angeles Rams,3,-3.0,Los Angeles Rams,Tampa Bay Buccaneers,Los Angeles Rams
+13229,2022-01-30,2022-01-01,Conference,Kansas City Chiefs,24,Cincinnati Bengals,27,51.0,54,under,Kansas City Chiefs,Cincinnati Bengals,3,-7.0,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals
+13230,2022-01-30,2022-01-01,Conference,Los Angeles Rams,20,San Francisco 49ers,17,37.0,46,under,Los Angeles Rams,San Francisco 49ers,3,-3.5,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers
+13231,2022-02-13,2022-01-01,Superbowl,Cincinnati Bengals,20,Los Angeles Rams,23,43.0,48,under,Los Angeles Rams,Cincinnati Bengals,3,-4.5,Los Angeles Rams,Cincinnati Bengals,Cincinnati Bengals
+13503,2023-01-14,2023-01-01,Wildcard,Jacksonville Jaguars,31,Los Angeles Chargers,30,61.0,46,over,Los Angeles Chargers,Jacksonville Jaguars,1,-2.5,Jacksonville Jaguars,Los Angeles Chargers,Jacksonville Jaguars
+13504,2023-01-14,2023-01-01,Wildcard,San Francisco 49ers,41,Seattle Seahawks,23,64.0,42,over,San Francisco 49ers,Seattle Seahawks,18,-9.5,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers
+13505,2023-01-15,2023-01-01,Wildcard,Buffalo Bills,34,Miami Dolphins,31,65.0,44,over,Buffalo Bills,Miami Dolphins,3,-14.0,Buffalo Bills,Miami Dolphins,Miami Dolphins
+13506,2023-01-15,2023-01-01,Wildcard,Cincinnati Bengals,24,Baltimore Ravens,17,41.0,40,over,Cincinnati Bengals,Baltimore Ravens,7,-8.0,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens
+13507,2023-01-15,2023-01-01,Wildcard,Minnesota Vikings,24,New York Giants,31,55.0,48,over,Minnesota Vikings,New York Giants,7,-2.5,New York Giants,Minnesota Vikings,New York Giants
+13508,2023-01-16,2023-01-01,Wildcard,Tampa Bay Buccaneers,14,Dallas Cowboys,31,45.0,45,push,Dallas Cowboys,Tampa Bay Buccaneers,17,-2.5,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys
+13509,2023-01-21,2023-01-01,Division,Kansas City Chiefs,27,Jacksonville Jaguars,20,47.0,52,under,Kansas City Chiefs,Jacksonville Jaguars,7,-9.5,Kansas City Chiefs,Jacksonville Jaguars,Jacksonville Jaguars
+13510,2023-01-21,2023-01-01,Division,Philadelphia Eagles,38,New York Giants,7,45.0,48,under,Philadelphia Eagles,New York Giants,31,-8.0,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+13511,2023-01-22,2023-01-01,Division,Buffalo Bills,10,Cincinnati Bengals,27,37.0,48,under,Buffalo Bills,Cincinnati Bengals,17,-6.0,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals
+13512,2023-01-22,2023-01-01,Division,San Francisco 49ers,19,Dallas Cowboys,12,31.0,46,under,San Francisco 49ers,Dallas Cowboys,7,-3.5,San Francisco 49ers,Dallas Cowboys,San Francisco 49ers
+13513,2023-01-29,2023-01-01,Conference,Kansas City Chiefs,23,Cincinnati Bengals,20,43.0,48,under,Kansas City Chiefs,Cincinnati Bengals,3,-1.5,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs
+13514,2023-01-29,2023-01-01,Conference,Philadelphia Eagles,31,San Francisco 49ers,7,38.0,45,under,Philadelphia Eagles,San Francisco 49ers,24,-2.5,Philadelphia Eagles,San Francisco 49ers,Philadelphia Eagles
+13515,2023-02-12,2023-01-01,Superbowl,Philadelphia Eagles,35,Kansas City Chiefs,38,73.0,51,over,Philadelphia Eagles,Kansas City Chiefs,3,-1.0,Kansas City Chiefs,Philadelphia Eagles,Kansas City Chiefs
+13788,2024-01-13,2024-01-01,Wildcard,Houston Texans,45,Cleveland Browns,14,59.0,45,over,Cleveland Browns,Houston Texans,31,-2.5,Houston Texans,Cleveland Browns,Houston Texans
+13789,2024-01-13,2024-01-01,Wildcard,Kansas City Chiefs,26,Miami Dolphins,7,33.0,43,under,Kansas City Chiefs,Miami Dolphins,19,-4.5,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs
+13790,2024-01-14,2024-01-01,Wildcard,Dallas Cowboys,32,Green Bay Packers,48,80.0,52,over,Dallas Cowboys,Green Bay Packers,16,-7.0,Green Bay Packers,Dallas Cowboys,Green Bay Packers
+13791,2024-01-14,2024-01-01,Wildcard,Detroit Lions,24,Los Angeles Rams,23,47.0,53,under,Detroit Lions,Los Angeles Rams,1,-3.0,Detroit Lions,Los Angeles Rams,Los Angeles Rams
+13792,2024-01-15,2024-01-01,Wildcard,Buffalo Bills,31,Pittsburgh Steelers,17,48.0,33,over,Buffalo Bills,Pittsburgh Steelers,14,-9.0,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills
+13793,2024-01-15,2024-01-01,Wildcard,Tampa Bay Buccaneers,32,Philadelphia Eagles,9,41.0,43,under,Philadelphia Eagles,Tampa Bay Buccaneers,23,-3.0,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers
+13794,2024-01-20,2024-01-01,Division,Baltimore Ravens,34,Houston Texans,10,44.0,44,push,Baltimore Ravens,Houston Texans,24,-10.0,Baltimore Ravens,Houston Texans,Baltimore Ravens
+13795,2024-01-20,2024-01-01,Division,San Francisco 49ers,24,Green Bay Packers,21,45.0,50,under,San Francisco 49ers,Green Bay Packers,3,-10.0,San Francisco 49ers,Green Bay Packers,Green Bay Packers
+13796,2024-01-21,2024-01-01,Division,Buffalo Bills,24,Kansas City Chiefs,27,51.0,46,over,Buffalo Bills,Kansas City Chiefs,3,-2.5,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs
+13797,2024-01-21,2024-01-01,Division,Detroit Lions,31,Tampa Bay Buccaneers,23,54.0,49,over,Detroit Lions,Tampa Bay Buccaneers,8,-6.0,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions
+13798,2024-01-28,2024-01-01,Conference,Baltimore Ravens,10,Kansas City Chiefs,17,27.0,44,under,Baltimore Ravens,Kansas City Chiefs,7,-4.5,Kansas City Chiefs,Baltimore Ravens,Kansas City Chiefs
+13799,2024-01-28,2024-01-01,Conference,San Francisco 49ers,34,Detroit Lions,31,65.0,53,over,San Francisco 49ers,Detroit Lions,3,-7.5,San Francisco 49ers,Detroit Lions,Detroit Lions
+13800,2024-02-11,2024-01-01,Superbowl,Kansas City Chiefs,25,San Francisco 49ers,22,47.0,47,push,San Francisco 49ers,Kansas City Chiefs,3,-2.0,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs
